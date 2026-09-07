@@ -1,0 +1,6 @@
+category,net_revenue,gross_revenue,margin,orders,units,discount_amount,return_flag,revenue_share,margin_contribution,gross_margin_pct,aov,discount_rate,return_rate,growth_rate,classification
+Electronics,2090565.27,2189148.33,581168.69,3507,4960,98583.06,0.03706871970345024,0.3862,0.2941,0.278,596.11,0.045,0.0371,0.6418,Volume Driver (High Vol / Lower Margin)
+Home & Kitchen,1544008.15,1611050.71,585284.41,3850,5502,67042.56,0.04076863152427941,0.2852,0.2962,0.3791,401.04,0.0416,0.0408,0.7392,Volume Driver (High Vol / Lower Margin)
+Sports & Outdoors,788556.77,823003.07,299174.44,2368,3423,34446.3,0.04222972972972973,0.1457,0.1514,0.3794,333.01,0.0419,0.0422,0.6241,Margin & Revenue Leader
+Apparel & Fashion,744431.39,778040.89,373873.34,3912,5572,33609.5,0.058793456032719835,0.1375,0.1892,0.5022,190.29,0.0432,0.0588,0.5739,Margin Specialist (Niche High Profit)
+Health & Beauty,245659.46,256488.34,136559.86,2351,3341,10828.88,0.03743088047639302,0.0454,0.0691,0.5559,104.49,0.0422,0.0374,0.7315,Margin Specialist (Niche High Profit)

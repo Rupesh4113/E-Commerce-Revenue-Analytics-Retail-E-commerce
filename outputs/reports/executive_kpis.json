@@ -1,0 +1,19 @@
+{
+  "total_gross_revenue": 5657731.34,
+  "total_net_revenue": 5413221.04,
+  "total_cost": 3437160.3,
+  "margin_contribution": 1976060.74,
+  "gross_margin_pct": 0.365,
+  "total_orders": 15988,
+  "total_customers": 2743,
+  "aov": 338.58,
+  "revenue_growth_yoy": 0.6605,
+  "discount_rate": 0.0432,
+  "repeat_purchase_rate": 0.9202,
+  "return_rate": 0.0441,
+  "dispute_rate": 0.0119,
+  "avg_transit_days": 3.46,
+  "top_region_share": 0.3214,
+  "top_3_region_share": 0.8265,
+  "top_5_brand_share": 0.5748
+}

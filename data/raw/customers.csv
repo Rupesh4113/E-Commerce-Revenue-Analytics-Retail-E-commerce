@@ -1,0 +1,2801 @@
+customer_id,customer_segment,acquisition_channel,signup_date
+CUST-0001,Consumer,Email Campaign,2022-04-13
+CUST-0002,Consumer,Organic Search,2023-03-12
+CUST-0003,Consumer,Organic Search,2024-05-10
+CUST-0004,Consumer,Organic Search,2022-09-28
+CUST-0005,Corporate,Organic Search,2022-04-17
+CUST-0006,Consumer,Organic Search,2022-03-13
+CUST-0007,Consumer,Paid Ads,2023-12-02
+CUST-0008,Consumer,Organic Search,2022-01-21
+CUST-0009,Consumer,Paid Ads,2023-09-07
+CUST-0010,Consumer,Referral,2022-05-02
+CUST-0011,Consumer,Social Media,2023-04-12
+CUST-0012,Consumer,Referral,2022-08-03
+CUST-0013,Small Business,Organic Search,2022-11-27
+CUST-0014,Consumer,Paid Ads,2023-04-04
+CUST-0015,Consumer,Paid Ads,2022-03-29
+CUST-0016,Corporate,Organic Search,2023-01-08
+CUST-0017,Small Business,Organic Search,2022-04-10
+CUST-0018,Consumer,Social Media,2024-05-21
+CUST-0019,Consumer,Social Media,2023-10-26
+CUST-0020,Consumer,Paid Ads,2022-05-11
+CUST-0021,Small Business,Paid Ads,2023-10-24
+CUST-0022,Corporate,Paid Ads,2022-11-05
+CUST-0023,Small Business,Organic Search,2024-02-09
+CUST-0024,Consumer,Organic Search,2022-12-10
+CUST-0025,Small Business,Organic Search,2023-05-07
+CUST-0026,Consumer,Organic Search,2023-02-18
+CUST-0027,Consumer,Referral,2024-03-16
+CUST-0028,Consumer,Paid Ads,2023-01-21
+CUST-0029,Corporate,Social Media,2022-07-11
+CUST-0030,Consumer,Organic Search,2022-10-04
+CUST-0031,Small Business,Paid Ads,2022-06-10
+CUST-0032,Consumer,Organic Search,2023-04-05
+CUST-0033,Consumer,Organic Search,2022-11-10
+CUST-0034,Consumer,Organic Search,2022-01-22
+CUST-0035,Consumer,Social Media,2022-09-10
+CUST-0036,Small Business,Social Media,2024-01-18
+CUST-0037,Consumer,Paid Ads,2024-05-06
+CUST-0038,Small Business,Paid Ads,2023-07-15
+CUST-0039,Small Business,Referral,2023-04-20
+CUST-0040,Corporate,Organic Search,2022-02-28
+CUST-0041,Consumer,Organic Search,2023-05-26
+CUST-0042,Consumer,Organic Search,2023-11-13
+CUST-0043,Consumer,Social Media,2023-04-21
+CUST-0044,Corporate,Referral,2023-12-01
+CUST-0045,Corporate,Organic Search,2024-02-22
+CUST-0046,Consumer,Email Campaign,2022-07-09
+CUST-0047,Small Business,Email Campaign,2023-11-18
+CUST-0048,Consumer,Organic Search,2023-07-17
+CUST-0049,Consumer,Paid Ads,2024-05-25
+CUST-0050,Consumer,Paid Ads,2023-07-21
+CUST-0051,Small Business,Referral,2022-09-01
+CUST-0052,Consumer,Organic Search,2024-04-11
+CUST-0053,Small Business,Social Media,2023-05-20
+CUST-0054,Small Business,Organic Search,2022-05-11
+CUST-0055,Small Business,Social Media,2023-04-30
+CUST-0056,Consumer,Paid Ads,2024-03-29
+CUST-0057,Consumer,Paid Ads,2023-10-09
+CUST-0058,Consumer,Email Campaign,2022-01-21
+CUST-0059,Consumer,Email Campaign,2024-04-20
+CUST-0060,Consumer,Email Campaign,2022-06-16
+CUST-0061,Corporate,Organic Search,2022-10-01
+CUST-0062,Consumer,Social Media,2023-01-23
+CUST-0063,Consumer,Organic Search,2023-08-24
+CUST-0064,Consumer,Paid Ads,2022-11-12
+CUST-0065,Consumer,Paid Ads,2022-01-14
+CUST-0066,Consumer,Paid Ads,2022-08-30
+CUST-0067,Consumer,Paid Ads,2024-02-16
+CUST-0068,Corporate,Referral,2022-12-12
+CUST-0069,Consumer,Organic Search,2023-07-19
+CUST-0070,Corporate,Social Media,2024-06-16
+CUST-0071,Small Business,Paid Ads,2022-12-06
+CUST-0072,Consumer,Organic Search,2022-04-02
+CUST-0073,Corporate,Organic Search,2023-01-02
+CUST-0074,Consumer,Referral,2023-03-31
+CUST-0075,Small Business,Email Campaign,2023-03-04
+CUST-0076,Consumer,Email Campaign,2023-05-24
+CUST-0077,Small Business,Referral,2024-02-15
+CUST-0078,Small Business,Organic Search,2022-02-04
+CUST-0079,Small Business,Paid Ads,2022-07-25
+CUST-0080,Small Business,Social Media,2022-03-22
+CUST-0081,Consumer,Paid Ads,2023-07-16
+CUST-0082,Consumer,Paid Ads,2024-05-21
+CUST-0083,Consumer,Paid Ads,2023-01-23
+CUST-0084,Consumer,Paid Ads,2022-01-02
+CUST-0085,Small Business,Paid Ads,2023-01-25
+CUST-0086,Consumer,Organic Search,2023-07-20
+CUST-0087,Corporate,Paid Ads,2022-04-16
+CUST-0088,Consumer,Paid Ads,2024-02-11
+CUST-0089,Small Business,Paid Ads,2024-04-01
+CUST-0090,Consumer,Organic Search,2023-04-22
+CUST-0091,Small Business,Social Media,2023-12-04
+CUST-0092,Corporate,Organic Search,2023-02-06
+CUST-0093,Consumer,Paid Ads,2023-12-31
+CUST-0094,Consumer,Social Media,2023-07-10
+CUST-0095,Small Business,Paid Ads,2022-06-11
+CUST-0096,Consumer,Organic Search,2022-07-21
+CUST-0097,Consumer,Social Media,2022-09-27
+CUST-0098,Consumer,Paid Ads,2024-05-12
+CUST-0099,Consumer,Social Media,2024-03-26
+CUST-0100,Consumer,Social Media,2022-09-28
+CUST-0101,Consumer,Paid Ads,2023-04-01
+CUST-0102,Consumer,Paid Ads,2023-04-07
+CUST-0103,Consumer,Organic Search,2023-12-28
+CUST-0104,Corporate,Organic Search,2022-09-09
+CUST-0105,Consumer,Paid Ads,2023-12-03
+CUST-0106,Corporate,Paid Ads,2022-10-23
+CUST-0107,Consumer,Paid Ads,2023-12-26
+CUST-0108,Consumer,Organic Search,2023-12-21
+CUST-0109,Consumer,Organic Search,2024-01-19
+CUST-0110,Consumer,Paid Ads,2022-12-04
+CUST-0111,Consumer,Organic Search,2024-05-28
+CUST-0112,Consumer,Social Media,2022-02-22
+CUST-0113,Consumer,Organic Search,2024-03-02
+CUST-0114,Consumer,Paid Ads,2022-08-05
+CUST-0115,Small Business,Referral,2024-02-03
+CUST-0116,Consumer,Organic Search,2022-07-07
+CUST-0117,Consumer,Paid Ads,2023-01-15
+CUST-0118,Small Business,Organic Search,2023-05-08
+CUST-0119,Consumer,Paid Ads,2022-02-10
+CUST-0120,Consumer,Paid Ads,2022-06-06
+CUST-0121,Corporate,Paid Ads,2022-01-15
+CUST-0122,Consumer,Paid Ads,2024-03-23
+CUST-0123,Small Business,Email Campaign,2022-03-06
+CUST-0124,Corporate,Organic Search,2024-05-06
+CUST-0125,Consumer,Organic Search,2024-04-18
+CUST-0126,Consumer,Email Campaign,2023-06-05
+CUST-0127,Consumer,Paid Ads,2022-12-10
+CUST-0128,Consumer,Email Campaign,2022-05-09
+CUST-0129,Consumer,Paid Ads,2023-10-10
+CUST-0130,Small Business,Email Campaign,2023-04-17
+CUST-0131,Consumer,Paid Ads,2022-03-04
+CUST-0132,Consumer,Social Media,2022-05-19
+CUST-0133,Corporate,Email Campaign,2023-05-14
+CUST-0134,Small Business,Paid Ads,2023-08-16
+CUST-0135,Consumer,Organic Search,2023-01-27
+CUST-0136,Consumer,Organic Search,2023-11-06
+CUST-0137,Consumer,Organic Search,2023-02-23
+CUST-0138,Consumer,Organic Search,2022-10-16
+CUST-0139,Consumer,Organic Search,2023-01-14
+CUST-0140,Consumer,Paid Ads,2024-02-12
+CUST-0141,Corporate,Paid Ads,2023-05-05
+CUST-0142,Consumer,Paid Ads,2022-08-19
+CUST-0143,Consumer,Paid Ads,2022-02-10
+CUST-0144,Consumer,Organic Search,2022-01-28
+CUST-0145,Consumer,Organic Search,2022-05-15
+CUST-0146,Small Business,Organic Search,2022-07-20
+CUST-0147,Small Business,Paid Ads,2024-04-19
+CUST-0148,Small Business,Organic Search,2024-02-19
+CUST-0149,Consumer,Organic Search,2022-02-02
+CUST-0150,Consumer,Paid Ads,2022-02-17
+CUST-0151,Consumer,Email Campaign,2023-05-18
+CUST-0152,Consumer,Organic Search,2023-02-11
+CUST-0153,Consumer,Social Media,2023-07-28
+CUST-0154,Small Business,Social Media,2023-12-29
+CUST-0155,Consumer,Social Media,2024-03-15
+CUST-0156,Consumer,Referral,2022-04-09
+CUST-0157,Consumer,Organic Search,2023-11-15
+CUST-0158,Consumer,Organic Search,2024-05-21
+CUST-0159,Consumer,Email Campaign,2023-12-27
+CUST-0160,Corporate,Paid Ads,2023-07-01
+CUST-0161,Small Business,Paid Ads,2024-01-09
+CUST-0162,Corporate,Social Media,2023-09-05
+CUST-0163,Consumer,Social Media,2023-04-07
+CUST-0164,Consumer,Referral,2023-10-05
+CUST-0165,Consumer,Referral,2024-02-08
+CUST-0166,Consumer,Social Media,2022-01-05
+CUST-0167,Small Business,Organic Search,2022-08-06
+CUST-0168,Consumer,Email Campaign,2023-05-18
+CUST-0169,Consumer,Organic Search,2024-02-06
+CUST-0170,Consumer,Organic Search,2023-02-02
+CUST-0171,Consumer,Email Campaign,2024-05-20
+CUST-0172,Small Business,Organic Search,2024-03-05
+CUST-0173,Consumer,Organic Search,2023-01-28
+CUST-0174,Consumer,Organic Search,2022-07-26
+CUST-0175,Consumer,Email Campaign,2022-01-15
+CUST-0176,Consumer,Paid Ads,2024-05-07
+CUST-0177,Small Business,Social Media,2023-07-08
+CUST-0178,Corporate,Organic Search,2024-06-10
+CUST-0179,Corporate,Social Media,2023-04-06
+CUST-0180,Small Business,Social Media,2023-11-22
+CUST-0181,Consumer,Organic Search,2023-07-29
+CUST-0182,Small Business,Paid Ads,2024-05-13
+CUST-0183,Consumer,Organic Search,2024-01-13
+CUST-0184,Consumer,Referral,2022-08-29
+CUST-0185,Small Business,Social Media,2023-07-18
+CUST-0186,Consumer,Referral,2022-04-06
+CUST-0187,Corporate,Organic Search,2024-06-18
+CUST-0188,Consumer,Social Media,2024-01-04
+CUST-0189,Consumer,Social Media,2023-04-30
+CUST-0190,Small Business,Social Media,2023-02-11
+CUST-0191,Corporate,Referral,2022-08-19
+CUST-0192,Consumer,Paid Ads,2024-01-19
+CUST-0193,Consumer,Organic Search,2023-10-17
+CUST-0194,Consumer,Social Media,2022-06-20
+CUST-0195,Consumer,Social Media,2023-06-25
+CUST-0196,Consumer,Paid Ads,2022-02-05
+CUST-0197,Small Business,Organic Search,2023-06-09
+CUST-0198,Consumer,Paid Ads,2022-06-09
+CUST-0199,Small Business,Organic Search,2024-04-18
+CUST-0200,Consumer,Paid Ads,2023-11-30
+CUST-0201,Consumer,Social Media,2022-08-31
+CUST-0202,Small Business,Social Media,2022-03-27
+CUST-0203,Consumer,Organic Search,2024-03-06
+CUST-0204,Consumer,Paid Ads,2023-08-01
+CUST-0205,Consumer,Organic Search,2023-11-13
+CUST-0206,Corporate,Organic Search,2023-07-11
+CUST-0207,Small Business,Social Media,2023-07-28
+CUST-0208,Consumer,Email Campaign,2023-10-08
+CUST-0209,Consumer,Paid Ads,2024-03-06
+CUST-0210,Consumer,Social Media,2022-01-28
+CUST-0211,Small Business,Email Campaign,2023-09-12
+CUST-0212,Small Business,Email Campaign,2023-07-10
+CUST-0213,Consumer,Organic Search,2022-12-06
+CUST-0214,Consumer,Referral,2024-03-08
+CUST-0215,Consumer,Paid Ads,2022-11-27
+CUST-0216,Small Business,Organic Search,2023-10-02
+CUST-0217,Small Business,Organic Search,2023-05-21
+CUST-0218,Consumer,Paid Ads,2022-12-14
+CUST-0219,Consumer,Organic Search,2023-04-18
+CUST-0220,Consumer,Organic Search,2022-08-19
+CUST-0221,Corporate,Organic Search,2022-07-09
+CUST-0222,Consumer,Email Campaign,2022-08-13
+CUST-0223,Small Business,Email Campaign,2023-01-20
+CUST-0224,Consumer,Organic Search,2023-01-12
+CUST-0225,Consumer,Email Campaign,2022-10-10
+CUST-0226,Consumer,Email Campaign,2023-09-25
+CUST-0227,Consumer,Social Media,2023-09-20
+CUST-0228,Consumer,Organic Search,2024-01-15
+CUST-0229,Small Business,Social Media,2022-09-16
+CUST-0230,Consumer,Referral,2022-12-25
+CUST-0231,Consumer,Social Media,2023-12-11
+CUST-0232,Consumer,Organic Search,2023-04-01
+CUST-0233,Corporate,Paid Ads,2023-02-15
+CUST-0234,Small Business,Social Media,2023-10-11
+CUST-0235,Consumer,Paid Ads,2022-11-14
+CUST-0236,Corporate,Organic Search,2023-11-08
+CUST-0237,Consumer,Organic Search,2022-08-13
+CUST-0238,Consumer,Email Campaign,2024-03-29
+CUST-0239,Small Business,Email Campaign,2022-08-22
+CUST-0240,Small Business,Organic Search,2023-11-15
+CUST-0241,Small Business,Referral,2023-10-26
+CUST-0242,Consumer,Organic Search,2024-04-06
+CUST-0243,Consumer,Social Media,2023-01-09
+CUST-0244,Corporate,Social Media,2023-11-03
+CUST-0245,Consumer,Email Campaign,2023-08-31
+CUST-0246,Consumer,Referral,2023-04-17
+CUST-0247,Consumer,Organic Search,2022-08-21
+CUST-0248,Consumer,Email Campaign,2023-11-23
+CUST-0249,Consumer,Organic Search,2022-04-23
+CUST-0250,Corporate,Social Media,2024-04-09
+CUST-0251,Consumer,Social Media,2023-05-12
+CUST-0252,Consumer,Social Media,2023-03-18
+CUST-0253,Consumer,Organic Search,2023-07-18
+CUST-0254,Corporate,Email Campaign,2022-09-25
+CUST-0255,Consumer,Organic Search,2023-05-25
+CUST-0256,Consumer,Organic Search,2024-03-17
+CUST-0257,Small Business,Social Media,2023-01-21
+CUST-0258,Small Business,Paid Ads,2023-01-22
+CUST-0259,Small Business,Email Campaign,2022-04-23
+CUST-0260,Corporate,Paid Ads,2023-09-05
+CUST-0261,Consumer,Organic Search,2023-09-17
+CUST-0262,Small Business,Email Campaign,2022-03-22
+CUST-0263,Consumer,Paid Ads,2023-11-30
+CUST-0264,Small Business,Organic Search,2022-04-23
+CUST-0265,Small Business,Social Media,2022-01-02
+CUST-0266,Small Business,Paid Ads,2023-10-04
+CUST-0267,Small Business,Paid Ads,2022-08-08
+CUST-0268,Consumer,Paid Ads,2023-07-20
+CUST-0269,Consumer,Email Campaign,2024-05-04
+CUST-0270,Corporate,Email Campaign,2024-01-06
+CUST-0271,Corporate,Social Media,2022-08-13
+CUST-0272,Consumer,Organic Search,2023-01-20
+CUST-0273,Consumer,Email Campaign,2023-02-07
+CUST-0274,Consumer,Social Media,2023-09-30
+CUST-0275,Small Business,Social Media,2022-05-10
+CUST-0276,Small Business,Paid Ads,2022-02-22
+CUST-0277,Consumer,Email Campaign,2023-11-15
+CUST-0278,Consumer,Social Media,2023-12-31
+CUST-0279,Small Business,Organic Search,2023-11-03
+CUST-0280,Small Business,Paid Ads,2023-12-11
+CUST-0281,Consumer,Email Campaign,2023-02-20
+CUST-0282,Consumer,Organic Search,2022-09-04
+CUST-0283,Consumer,Referral,2024-04-15
+CUST-0284,Consumer,Social Media,2023-03-15
+CUST-0285,Consumer,Social Media,2022-07-22
+CUST-0286,Small Business,Organic Search,2022-07-03
+CUST-0287,Small Business,Organic Search,2022-05-03
+CUST-0288,Consumer,Referral,2023-02-05
+CUST-0289,Small Business,Organic Search,2024-02-06
+CUST-0290,Consumer,Social Media,2022-10-21
+CUST-0291,Consumer,Paid Ads,2022-10-07
+CUST-0292,Consumer,Organic Search,2024-04-16
+CUST-0293,Consumer,Organic Search,2024-06-02
+CUST-0294,Small Business,Paid Ads,2023-09-02
+CUST-0295,Corporate,Referral,2022-07-17
+CUST-0296,Consumer,Paid Ads,2024-06-25
+CUST-0297,Consumer,Paid Ads,2023-05-26
+CUST-0298,Small Business,Organic Search,2024-01-22
+CUST-0299,Consumer,Paid Ads,2022-05-24
+CUST-0300,Consumer,Paid Ads,2023-09-01
+CUST-0301,Small Business,Email Campaign,2022-07-20
+CUST-0302,Consumer,Paid Ads,2022-05-04
+CUST-0303,Consumer,Paid Ads,2022-07-06
+CUST-0304,Consumer,Organic Search,2022-11-22
+CUST-0305,Small Business,Referral,2023-04-09
+CUST-0306,Consumer,Organic Search,2022-12-15
+CUST-0307,Consumer,Organic Search,2024-02-10
+CUST-0308,Small Business,Social Media,2023-10-22
+CUST-0309,Consumer,Paid Ads,2024-02-03
+CUST-0310,Small Business,Paid Ads,2023-02-07
+CUST-0311,Consumer,Paid Ads,2022-12-12
+CUST-0312,Corporate,Social Media,2023-05-26
+CUST-0313,Consumer,Organic Search,2022-05-27
+CUST-0314,Consumer,Email Campaign,2022-05-28
+CUST-0315,Consumer,Social Media,2024-05-13
+CUST-0316,Consumer,Paid Ads,2023-12-12
+CUST-0317,Small Business,Paid Ads,2024-03-30
+CUST-0318,Corporate,Organic Search,2023-05-04
+CUST-0319,Consumer,Social Media,2023-10-02
+CUST-0320,Consumer,Paid Ads,2023-07-05
+CUST-0321,Small Business,Organic Search,2022-12-04
+CUST-0322,Corporate,Paid Ads,2024-05-21
+CUST-0323,Consumer,Referral,2023-10-03
+CUST-0324,Consumer,Paid Ads,2024-02-18
+CUST-0325,Consumer,Referral,2023-04-18
+CUST-0326,Small Business,Organic Search,2022-05-31
+CUST-0327,Consumer,Organic Search,2023-02-19
+CUST-0328,Consumer,Organic Search,2022-10-25
+CUST-0329,Consumer,Paid Ads,2023-09-03
+CUST-0330,Small Business,Organic Search,2022-09-20
+CUST-0331,Consumer,Organic Search,2024-02-03
+CUST-0332,Consumer,Email Campaign,2022-05-24
+CUST-0333,Consumer,Email Campaign,2022-12-12
+CUST-0334,Consumer,Social Media,2023-09-16
+CUST-0335,Consumer,Organic Search,2023-07-26
+CUST-0336,Consumer,Organic Search,2024-05-30
+CUST-0337,Consumer,Organic Search,2022-01-02
+CUST-0338,Consumer,Social Media,2024-06-15
+CUST-0339,Consumer,Referral,2022-10-31
+CUST-0340,Small Business,Paid Ads,2022-09-11
+CUST-0341,Small Business,Organic Search,2023-10-14
+CUST-0342,Consumer,Paid Ads,2023-03-29
+CUST-0343,Small Business,Organic Search,2022-02-06
+CUST-0344,Consumer,Paid Ads,2022-06-09
+CUST-0345,Consumer,Paid Ads,2022-01-09
+CUST-0346,Consumer,Social Media,2022-08-21
+CUST-0347,Consumer,Organic Search,2022-04-09
+CUST-0348,Small Business,Organic Search,2023-10-21
+CUST-0349,Small Business,Referral,2024-03-26
+CUST-0350,Small Business,Organic Search,2022-07-27
+CUST-0351,Consumer,Organic Search,2022-05-11
+CUST-0352,Consumer,Organic Search,2023-02-08
+CUST-0353,Consumer,Organic Search,2022-06-01
+CUST-0354,Consumer,Paid Ads,2022-02-23
+CUST-0355,Consumer,Email Campaign,2022-04-30
+CUST-0356,Consumer,Organic Search,2023-11-04
+CUST-0357,Consumer,Paid Ads,2023-09-20
+CUST-0358,Consumer,Social Media,2023-08-10
+CUST-0359,Small Business,Paid Ads,2023-09-17
+CUST-0360,Corporate,Email Campaign,2023-02-24
+CUST-0361,Corporate,Email Campaign,2023-02-26
+CUST-0362,Consumer,Organic Search,2022-04-14
+CUST-0363,Consumer,Social Media,2024-05-01
+CUST-0364,Consumer,Paid Ads,2022-09-11
+CUST-0365,Small Business,Referral,2022-08-15
+CUST-0366,Consumer,Paid Ads,2022-04-22
+CUST-0367,Consumer,Referral,2023-05-25
+CUST-0368,Small Business,Social Media,2023-04-18
+CUST-0369,Consumer,Organic Search,2022-04-09
+CUST-0370,Consumer,Paid Ads,2022-06-02
+CUST-0371,Consumer,Referral,2024-05-10
+CUST-0372,Consumer,Email Campaign,2024-06-14
+CUST-0373,Consumer,Organic Search,2024-05-27
+CUST-0374,Consumer,Social Media,2022-12-04
+CUST-0375,Consumer,Organic Search,2023-12-07
+CUST-0376,Consumer,Organic Search,2024-04-01
+CUST-0377,Small Business,Paid Ads,2022-06-12
+CUST-0378,Consumer,Organic Search,2023-12-21
+CUST-0379,Consumer,Email Campaign,2023-11-12
+CUST-0380,Consumer,Organic Search,2022-06-10
+CUST-0381,Corporate,Email Campaign,2023-08-03
+CUST-0382,Consumer,Organic Search,2024-03-11
+CUST-0383,Consumer,Organic Search,2023-02-02
+CUST-0384,Small Business,Organic Search,2022-10-04
+CUST-0385,Small Business,Organic Search,2024-03-26
+CUST-0386,Consumer,Organic Search,2023-05-19
+CUST-0387,Small Business,Organic Search,2024-06-14
+CUST-0388,Consumer,Paid Ads,2023-01-27
+CUST-0389,Consumer,Organic Search,2022-05-15
+CUST-0390,Consumer,Paid Ads,2022-07-14
+CUST-0391,Consumer,Paid Ads,2023-02-05
+CUST-0392,Small Business,Email Campaign,2023-10-02
+CUST-0393,Consumer,Email Campaign,2022-02-02
+CUST-0394,Consumer,Paid Ads,2023-11-19
+CUST-0395,Small Business,Organic Search,2023-04-05
+CUST-0396,Small Business,Organic Search,2024-06-01
+CUST-0397,Consumer,Referral,2023-04-15
+CUST-0398,Consumer,Organic Search,2023-01-10
+CUST-0399,Consumer,Organic Search,2022-01-22
+CUST-0400,Small Business,Organic Search,2024-01-20
+CUST-0401,Small Business,Organic Search,2023-11-01
+CUST-0402,Corporate,Organic Search,2022-02-07
+CUST-0403,Consumer,Social Media,2022-08-18
+CUST-0404,Consumer,Organic Search,2022-12-31
+CUST-0405,Consumer,Social Media,2023-07-17
+CUST-0406,Consumer,Organic Search,2023-03-14
+CUST-0407,Consumer,Organic Search,2024-02-15
+CUST-0408,Corporate,Email Campaign,2022-10-10
+CUST-0409,Consumer,Organic Search,2022-01-27
+CUST-0410,Consumer,Email Campaign,2022-08-14
+CUST-0411,Small Business,Paid Ads,2022-10-04
+CUST-0412,Consumer,Organic Search,2024-03-08
+CUST-0413,Small Business,Referral,2023-09-01
+CUST-0414,Consumer,Organic Search,2022-10-11
+CUST-0415,Consumer,Email Campaign,2024-05-28
+CUST-0416,Consumer,Organic Search,2023-04-26
+CUST-0417,Consumer,Email Campaign,2023-03-29
+CUST-0418,Corporate,Organic Search,2024-04-08
+CUST-0419,Consumer,Paid Ads,2024-03-26
+CUST-0420,Consumer,Social Media,2023-10-21
+CUST-0421,Consumer,Referral,2023-05-31
+CUST-0422,Consumer,Email Campaign,2023-07-01
+CUST-0423,Corporate,Email Campaign,2022-07-11
+CUST-0424,Consumer,Email Campaign,2022-02-18
+CUST-0425,Small Business,Organic Search,2023-05-27
+CUST-0426,Corporate,Organic Search,2022-01-17
+CUST-0427,Consumer,Organic Search,2022-06-21
+CUST-0428,Corporate,Paid Ads,2022-08-08
+CUST-0429,Consumer,Paid Ads,2022-06-07
+CUST-0430,Consumer,Paid Ads,2023-04-22
+CUST-0431,Consumer,Organic Search,2022-02-15
+CUST-0432,Small Business,Social Media,2023-01-08
+CUST-0433,Corporate,Organic Search,2023-06-02
+CUST-0434,Consumer,Organic Search,2022-04-09
+CUST-0435,Small Business,Paid Ads,2024-06-10
+CUST-0436,Consumer,Social Media,2024-01-15
+CUST-0437,Consumer,Social Media,2022-02-06
+CUST-0438,Consumer,Social Media,2022-10-07
+CUST-0439,Corporate,Organic Search,2022-12-15
+CUST-0440,Consumer,Paid Ads,2023-05-12
+CUST-0441,Consumer,Organic Search,2022-10-29
+CUST-0442,Consumer,Paid Ads,2022-06-30
+CUST-0443,Consumer,Paid Ads,2023-08-30
+CUST-0444,Consumer,Organic Search,2022-04-09
+CUST-0445,Consumer,Organic Search,2023-12-01
+CUST-0446,Small Business,Referral,2022-04-26
+CUST-0447,Consumer,Referral,2022-07-10
+CUST-0448,Consumer,Paid Ads,2022-09-10
+CUST-0449,Consumer,Organic Search,2022-06-10
+CUST-0450,Small Business,Organic Search,2022-09-13
+CUST-0451,Small Business,Paid Ads,2022-11-19
+CUST-0452,Consumer,Referral,2022-05-08
+CUST-0453,Small Business,Organic Search,2022-01-18
+CUST-0454,Consumer,Social Media,2024-03-03
+CUST-0455,Consumer,Organic Search,2024-01-05
+CUST-0456,Consumer,Referral,2023-07-20
+CUST-0457,Consumer,Paid Ads,2023-07-24
+CUST-0458,Consumer,Social Media,2022-11-19
+CUST-0459,Corporate,Organic Search,2024-05-21
+CUST-0460,Small Business,Paid Ads,2023-11-17
+CUST-0461,Small Business,Organic Search,2024-03-02
+CUST-0462,Consumer,Organic Search,2023-09-18
+CUST-0463,Consumer,Referral,2022-10-15
+CUST-0464,Small Business,Email Campaign,2024-05-03
+CUST-0465,Consumer,Email Campaign,2023-10-25
+CUST-0466,Consumer,Paid Ads,2023-10-01
+CUST-0467,Consumer,Email Campaign,2022-06-04
+CUST-0468,Small Business,Organic Search,2023-05-05
+CUST-0469,Consumer,Organic Search,2023-01-21
+CUST-0470,Consumer,Organic Search,2024-02-24
+CUST-0471,Small Business,Social Media,2022-04-14
+CUST-0472,Consumer,Paid Ads,2023-01-28
+CUST-0473,Consumer,Organic Search,2024-03-21
+CUST-0474,Consumer,Paid Ads,2022-09-03
+CUST-0475,Consumer,Email Campaign,2022-06-25
+CUST-0476,Small Business,Paid Ads,2022-02-08
+CUST-0477,Consumer,Organic Search,2023-04-22
+CUST-0478,Consumer,Organic Search,2023-11-13
+CUST-0479,Small Business,Organic Search,2024-01-29
+CUST-0480,Small Business,Organic Search,2023-06-22
+CUST-0481,Small Business,Social Media,2024-05-16
+CUST-0482,Consumer,Paid Ads,2024-03-28
+CUST-0483,Consumer,Social Media,2023-02-12
+CUST-0484,Corporate,Paid Ads,2023-06-09
+CUST-0485,Small Business,Email Campaign,2024-04-07
+CUST-0486,Consumer,Organic Search,2023-05-21
+CUST-0487,Consumer,Paid Ads,2024-06-21
+CUST-0488,Consumer,Email Campaign,2024-04-04
+CUST-0489,Corporate,Organic Search,2022-02-05
+CUST-0490,Consumer,Organic Search,2023-11-16
+CUST-0491,Consumer,Email Campaign,2022-01-20
+CUST-0492,Consumer,Organic Search,2022-11-17
+CUST-0493,Small Business,Social Media,2024-02-15
+CUST-0494,Small Business,Organic Search,2023-05-27
+CUST-0495,Consumer,Social Media,2023-02-04
+CUST-0496,Small Business,Organic Search,2023-10-16
+CUST-0497,Corporate,Organic Search,2024-06-01
+CUST-0498,Consumer,Paid Ads,2023-04-16
+CUST-0499,Consumer,Organic Search,2022-05-23
+CUST-0500,Consumer,Paid Ads,2022-04-02
+CUST-0501,Small Business,Organic Search,2022-12-20
+CUST-0502,Consumer,Organic Search,2024-04-13
+CUST-0503,Consumer,Organic Search,2024-03-10
+CUST-0504,Small Business,Organic Search,2023-12-28
+CUST-0505,Consumer,Email Campaign,2024-05-03
+CUST-0506,Corporate,Organic Search,2022-02-20
+CUST-0507,Consumer,Paid Ads,2023-10-27
+CUST-0508,Consumer,Organic Search,2023-11-29
+CUST-0509,Small Business,Organic Search,2023-07-29
+CUST-0510,Small Business,Referral,2022-07-09
+CUST-0511,Consumer,Organic Search,2022-05-05
+CUST-0512,Small Business,Referral,2022-05-30
+CUST-0513,Corporate,Organic Search,2022-11-10
+CUST-0514,Consumer,Social Media,2023-07-24
+CUST-0515,Corporate,Paid Ads,2022-12-08
+CUST-0516,Consumer,Email Campaign,2022-11-01
+CUST-0517,Consumer,Paid Ads,2023-11-23
+CUST-0518,Consumer,Paid Ads,2023-11-13
+CUST-0519,Corporate,Organic Search,2024-04-17
+CUST-0520,Small Business,Organic Search,2024-02-22
+CUST-0521,Consumer,Email Campaign,2022-02-23
+CUST-0522,Consumer,Organic Search,2023-03-20
+CUST-0523,Consumer,Paid Ads,2023-09-05
+CUST-0524,Consumer,Social Media,2022-09-21
+CUST-0525,Corporate,Organic Search,2022-02-22
+CUST-0526,Small Business,Referral,2023-07-26
+CUST-0527,Consumer,Social Media,2023-09-12
+CUST-0528,Corporate,Paid Ads,2022-01-05
+CUST-0529,Consumer,Email Campaign,2022-04-13
+CUST-0530,Corporate,Organic Search,2022-07-15
+CUST-0531,Small Business,Organic Search,2024-02-13
+CUST-0532,Consumer,Paid Ads,2024-05-26
+CUST-0533,Consumer,Organic Search,2024-06-02
+CUST-0534,Corporate,Social Media,2022-12-16
+CUST-0535,Consumer,Email Campaign,2022-02-16
+CUST-0536,Consumer,Paid Ads,2024-05-16
+CUST-0537,Consumer,Organic Search,2024-04-02
+CUST-0538,Consumer,Referral,2024-03-30
+CUST-0539,Consumer,Paid Ads,2023-10-18
+CUST-0540,Small Business,Paid Ads,2022-09-26
+CUST-0541,Corporate,Paid Ads,2023-01-05
+CUST-0542,Consumer,Email Campaign,2023-09-28
+CUST-0543,Small Business,Paid Ads,2022-04-16
+CUST-0544,Consumer,Social Media,2023-11-01
+CUST-0545,Small Business,Email Campaign,2023-10-21
+CUST-0546,Small Business,Organic Search,2023-10-19
+CUST-0547,Consumer,Paid Ads,2022-04-30
+CUST-0548,Small Business,Email Campaign,2024-04-10
+CUST-0549,Consumer,Paid Ads,2024-02-26
+CUST-0550,Consumer,Social Media,2023-08-27
+CUST-0551,Small Business,Referral,2022-02-27
+CUST-0552,Consumer,Paid Ads,2022-12-12
+CUST-0553,Consumer,Social Media,2024-01-11
+CUST-0554,Consumer,Email Campaign,2023-04-19
+CUST-0555,Small Business,Email Campaign,2022-04-27
+CUST-0556,Consumer,Paid Ads,2024-04-09
+CUST-0557,Consumer,Organic Search,2024-03-01
+CUST-0558,Small Business,Paid Ads,2022-05-07
+CUST-0559,Small Business,Social Media,2023-01-28
+CUST-0560,Consumer,Paid Ads,2024-06-26
+CUST-0561,Consumer,Social Media,2023-10-03
+CUST-0562,Consumer,Paid Ads,2022-02-27
+CUST-0563,Consumer,Social Media,2023-09-26
+CUST-0564,Consumer,Organic Search,2023-05-28
+CUST-0565,Small Business,Social Media,2024-01-21
+CUST-0566,Small Business,Paid Ads,2024-03-12
+CUST-0567,Consumer,Organic Search,2022-04-06
+CUST-0568,Consumer,Organic Search,2023-09-30
+CUST-0569,Small Business,Social Media,2022-04-28
+CUST-0570,Consumer,Paid Ads,2023-07-14
+CUST-0571,Corporate,Organic Search,2023-08-24
+CUST-0572,Consumer,Referral,2023-05-03
+CUST-0573,Consumer,Social Media,2022-08-25
+CUST-0574,Small Business,Referral,2024-06-03
+CUST-0575,Consumer,Paid Ads,2024-06-15
+CUST-0576,Small Business,Paid Ads,2022-09-29
+CUST-0577,Consumer,Email Campaign,2022-07-08
+CUST-0578,Consumer,Paid Ads,2023-12-05
+CUST-0579,Small Business,Social Media,2023-03-23
+CUST-0580,Consumer,Organic Search,2023-08-04
+CUST-0581,Small Business,Paid Ads,2024-02-29
+CUST-0582,Consumer,Organic Search,2024-05-10
+CUST-0583,Consumer,Organic Search,2022-09-04
+CUST-0584,Small Business,Organic Search,2022-03-17
+CUST-0585,Consumer,Organic Search,2022-06-03
+CUST-0586,Consumer,Referral,2023-10-18
+CUST-0587,Consumer,Organic Search,2023-03-11
+CUST-0588,Consumer,Social Media,2022-03-27
+CUST-0589,Consumer,Email Campaign,2023-11-28
+CUST-0590,Small Business,Paid Ads,2022-10-12
+CUST-0591,Corporate,Organic Search,2022-08-08
+CUST-0592,Small Business,Social Media,2022-03-10
+CUST-0593,Small Business,Paid Ads,2022-02-16
+CUST-0594,Small Business,Social Media,2022-04-04
+CUST-0595,Small Business,Social Media,2024-01-20
+CUST-0596,Consumer,Referral,2023-03-29
+CUST-0597,Corporate,Paid Ads,2022-07-23
+CUST-0598,Small Business,Organic Search,2022-08-06
+CUST-0599,Consumer,Social Media,2023-04-19
+CUST-0600,Consumer,Organic Search,2023-03-08
+CUST-0601,Consumer,Email Campaign,2022-12-07
+CUST-0602,Consumer,Organic Search,2023-07-05
+CUST-0603,Small Business,Organic Search,2023-09-04
+CUST-0604,Consumer,Email Campaign,2022-10-16
+CUST-0605,Consumer,Paid Ads,2022-09-11
+CUST-0606,Corporate,Paid Ads,2024-01-04
+CUST-0607,Consumer,Paid Ads,2022-12-23
+CUST-0608,Consumer,Email Campaign,2022-01-23
+CUST-0609,Consumer,Organic Search,2024-02-01
+CUST-0610,Small Business,Email Campaign,2023-06-06
+CUST-0611,Corporate,Organic Search,2024-01-28
+CUST-0612,Consumer,Social Media,2024-04-16
+CUST-0613,Small Business,Email Campaign,2022-04-10
+CUST-0614,Consumer,Organic Search,2024-03-12
+CUST-0615,Corporate,Paid Ads,2022-06-29
+CUST-0616,Small Business,Organic Search,2022-08-11
+CUST-0617,Small Business,Social Media,2024-06-24
+CUST-0618,Consumer,Paid Ads,2024-02-01
+CUST-0619,Corporate,Social Media,2023-10-21
+CUST-0620,Small Business,Organic Search,2023-03-18
+CUST-0621,Consumer,Organic Search,2023-08-31
+CUST-0622,Small Business,Organic Search,2024-02-08
+CUST-0623,Consumer,Organic Search,2022-11-21
+CUST-0624,Small Business,Paid Ads,2023-05-31
+CUST-0625,Consumer,Email Campaign,2022-01-16
+CUST-0626,Small Business,Social Media,2024-03-02
+CUST-0627,Consumer,Paid Ads,2022-12-02
+CUST-0628,Consumer,Referral,2024-01-29
+CUST-0629,Consumer,Social Media,2022-09-15
+CUST-0630,Consumer,Referral,2023-05-12
+CUST-0631,Consumer,Paid Ads,2024-06-14
+CUST-0632,Consumer,Organic Search,2022-06-09
+CUST-0633,Consumer,Organic Search,2023-04-20
+CUST-0634,Consumer,Social Media,2024-05-01
+CUST-0635,Consumer,Organic Search,2023-10-26
+CUST-0636,Small Business,Organic Search,2024-06-26
+CUST-0637,Consumer,Paid Ads,2023-11-21
+CUST-0638,Corporate,Paid Ads,2023-11-06
+CUST-0639,Small Business,Paid Ads,2023-01-15
+CUST-0640,Small Business,Organic Search,2023-06-29
+CUST-0641,Consumer,Paid Ads,2023-11-22
+CUST-0642,Corporate,Paid Ads,2023-03-03
+CUST-0643,Consumer,Referral,2023-09-05
+CUST-0644,Consumer,Social Media,2022-09-25
+CUST-0645,Consumer,Referral,2024-04-14
+CUST-0646,Small Business,Social Media,2023-07-31
+CUST-0647,Consumer,Paid Ads,2023-02-21
+CUST-0648,Consumer,Organic Search,2022-06-17
+CUST-0649,Corporate,Social Media,2024-04-21
+CUST-0650,Small Business,Paid Ads,2022-02-12
+CUST-0651,Consumer,Paid Ads,2023-07-10
+CUST-0652,Consumer,Paid Ads,2022-10-12
+CUST-0653,Small Business,Paid Ads,2023-02-01
+CUST-0654,Consumer,Organic Search,2022-01-12
+CUST-0655,Consumer,Paid Ads,2023-08-30
+CUST-0656,Consumer,Organic Search,2022-10-29
+CUST-0657,Corporate,Email Campaign,2024-06-16
+CUST-0658,Small Business,Organic Search,2022-09-10
+CUST-0659,Small Business,Organic Search,2023-05-14
+CUST-0660,Small Business,Paid Ads,2024-01-24
+CUST-0661,Consumer,Social Media,2022-02-04
+CUST-0662,Consumer,Paid Ads,2023-12-28
+CUST-0663,Consumer,Organic Search,2024-04-28
+CUST-0664,Consumer,Paid Ads,2022-03-31
+CUST-0665,Consumer,Organic Search,2024-02-15
+CUST-0666,Small Business,Referral,2023-08-28
+CUST-0667,Consumer,Referral,2023-08-25
+CUST-0668,Corporate,Paid Ads,2023-02-22
+CUST-0669,Consumer,Organic Search,2022-04-25
+CUST-0670,Consumer,Social Media,2023-09-09
+CUST-0671,Consumer,Organic Search,2024-06-21
+CUST-0672,Consumer,Paid Ads,2022-07-15
+CUST-0673,Small Business,Organic Search,2024-04-05
+CUST-0674,Consumer,Referral,2023-05-16
+CUST-0675,Consumer,Organic Search,2023-09-18
+CUST-0676,Consumer,Paid Ads,2023-05-08
+CUST-0677,Consumer,Social Media,2022-03-16
+CUST-0678,Consumer,Paid Ads,2023-02-17
+CUST-0679,Small Business,Organic Search,2023-01-11
+CUST-0680,Corporate,Referral,2023-02-24
+CUST-0681,Consumer,Paid Ads,2023-12-30
+CUST-0682,Small Business,Paid Ads,2022-10-04
+CUST-0683,Consumer,Organic Search,2024-01-31
+CUST-0684,Consumer,Paid Ads,2023-11-07
+CUST-0685,Consumer,Paid Ads,2023-01-29
+CUST-0686,Consumer,Organic Search,2024-05-18
+CUST-0687,Consumer,Organic Search,2023-04-02
+CUST-0688,Consumer,Email Campaign,2022-07-11
+CUST-0689,Consumer,Organic Search,2024-01-09
+CUST-0690,Consumer,Organic Search,2023-11-20
+CUST-0691,Consumer,Paid Ads,2022-04-09
+CUST-0692,Corporate,Social Media,2023-07-02
+CUST-0693,Consumer,Organic Search,2022-04-06
+CUST-0694,Consumer,Paid Ads,2023-10-26
+CUST-0695,Consumer,Organic Search,2023-10-25
+CUST-0696,Consumer,Organic Search,2022-07-09
+CUST-0697,Consumer,Organic Search,2024-01-06
+CUST-0698,Consumer,Email Campaign,2022-02-06
+CUST-0699,Consumer,Organic Search,2024-02-19
+CUST-0700,Consumer,Organic Search,2023-01-04
+CUST-0701,Consumer,Paid Ads,2023-11-26
+CUST-0702,Consumer,Email Campaign,2023-06-09
+CUST-0703,Consumer,Organic Search,2022-10-06
+CUST-0704,Consumer,Paid Ads,2022-08-05
+CUST-0705,Consumer,Organic Search,2024-05-16
+CUST-0706,Small Business,Paid Ads,2024-05-22
+CUST-0707,Consumer,Paid Ads,2024-03-08
+CUST-0708,Consumer,Paid Ads,2022-09-30
+CUST-0709,Consumer,Organic Search,2024-05-30
+CUST-0710,Corporate,Organic Search,2022-03-03
+CUST-0711,Consumer,Organic Search,2023-08-19
+CUST-0712,Consumer,Paid Ads,2024-05-29
+CUST-0713,Consumer,Organic Search,2023-12-30
+CUST-0714,Consumer,Social Media,2022-12-08
+CUST-0715,Consumer,Referral,2023-02-01
+CUST-0716,Consumer,Referral,2023-11-30
+CUST-0717,Small Business,Email Campaign,2022-01-19
+CUST-0718,Consumer,Paid Ads,2022-06-26
+CUST-0719,Small Business,Social Media,2023-09-04
+CUST-0720,Corporate,Organic Search,2023-01-31
+CUST-0721,Consumer,Social Media,2023-03-21
+CUST-0722,Consumer,Paid Ads,2022-08-21
+CUST-0723,Consumer,Paid Ads,2022-03-17
+CUST-0724,Consumer,Social Media,2022-09-22
+CUST-0725,Consumer,Organic Search,2023-03-31
+CUST-0726,Corporate,Organic Search,2024-03-06
+CUST-0727,Small Business,Referral,2023-12-19
+CUST-0728,Consumer,Organic Search,2024-01-05
+CUST-0729,Consumer,Paid Ads,2023-01-19
+CUST-0730,Small Business,Email Campaign,2023-07-18
+CUST-0731,Corporate,Paid Ads,2024-04-30
+CUST-0732,Small Business,Paid Ads,2023-05-21
+CUST-0733,Consumer,Organic Search,2023-01-02
+CUST-0734,Consumer,Organic Search,2022-05-24
+CUST-0735,Consumer,Email Campaign,2024-06-03
+CUST-0736,Consumer,Paid Ads,2022-03-10
+CUST-0737,Consumer,Paid Ads,2022-04-09
+CUST-0738,Consumer,Organic Search,2023-01-31
+CUST-0739,Small Business,Organic Search,2022-01-25
+CUST-0740,Consumer,Referral,2024-06-09
+CUST-0741,Consumer,Paid Ads,2023-04-14
+CUST-0742,Consumer,Paid Ads,2023-04-29
+CUST-0743,Consumer,Organic Search,2023-07-19
+CUST-0744,Consumer,Social Media,2022-05-31
+CUST-0745,Consumer,Referral,2022-05-24
+CUST-0746,Small Business,Paid Ads,2023-07-23
+CUST-0747,Consumer,Organic Search,2022-02-08
+CUST-0748,Consumer,Paid Ads,2022-04-19
+CUST-0749,Consumer,Social Media,2023-11-24
+CUST-0750,Corporate,Paid Ads,2022-02-11
+CUST-0751,Small Business,Email Campaign,2022-07-05
+CUST-0752,Small Business,Social Media,2023-02-02
+CUST-0753,Consumer,Email Campaign,2022-08-11
+CUST-0754,Consumer,Paid Ads,2023-09-26
+CUST-0755,Consumer,Organic Search,2022-05-13
+CUST-0756,Consumer,Organic Search,2022-06-12
+CUST-0757,Corporate,Organic Search,2022-08-03
+CUST-0758,Consumer,Email Campaign,2024-01-03
+CUST-0759,Small Business,Social Media,2022-08-23
+CUST-0760,Small Business,Social Media,2024-04-22
+CUST-0761,Consumer,Organic Search,2023-10-20
+CUST-0762,Corporate,Organic Search,2024-01-21
+CUST-0763,Consumer,Social Media,2023-08-11
+CUST-0764,Consumer,Paid Ads,2022-01-09
+CUST-0765,Consumer,Organic Search,2022-03-15
+CUST-0766,Consumer,Paid Ads,2023-05-07
+CUST-0767,Consumer,Organic Search,2022-09-10
+CUST-0768,Consumer,Organic Search,2022-08-18
+CUST-0769,Consumer,Paid Ads,2023-06-03
+CUST-0770,Consumer,Organic Search,2022-06-23
+CUST-0771,Consumer,Referral,2023-10-15
+CUST-0772,Consumer,Organic Search,2022-06-17
+CUST-0773,Consumer,Organic Search,2022-06-19
+CUST-0774,Consumer,Organic Search,2023-01-28
+CUST-0775,Small Business,Social Media,2024-03-05
+CUST-0776,Small Business,Paid Ads,2023-09-26
+CUST-0777,Small Business,Paid Ads,2022-07-13
+CUST-0778,Small Business,Organic Search,2023-06-01
+CUST-0779,Consumer,Organic Search,2022-01-29
+CUST-0780,Small Business,Paid Ads,2022-06-14
+CUST-0781,Consumer,Email Campaign,2023-02-26
+CUST-0782,Consumer,Email Campaign,2022-12-05
+CUST-0783,Small Business,Organic Search,2023-10-10
+CUST-0784,Consumer,Paid Ads,2023-05-11
+CUST-0785,Small Business,Email Campaign,2022-12-31
+CUST-0786,Small Business,Paid Ads,2024-04-12
+CUST-0787,Small Business,Email Campaign,2022-12-08
+CUST-0788,Corporate,Organic Search,2023-05-15
+CUST-0789,Consumer,Referral,2023-10-19
+CUST-0790,Consumer,Social Media,2023-05-26
+CUST-0791,Consumer,Referral,2022-11-23
+CUST-0792,Consumer,Social Media,2022-08-05
+CUST-0793,Consumer,Paid Ads,2022-10-28
+CUST-0794,Small Business,Referral,2022-05-12
+CUST-0795,Small Business,Organic Search,2024-03-14
+CUST-0796,Consumer,Organic Search,2022-03-11
+CUST-0797,Consumer,Social Media,2022-09-09
+CUST-0798,Consumer,Social Media,2023-02-19
+CUST-0799,Consumer,Referral,2024-02-26
+CUST-0800,Corporate,Organic Search,2023-03-21
+CUST-0801,Consumer,Social Media,2024-05-25
+CUST-0802,Consumer,Social Media,2022-07-01
+CUST-0803,Consumer,Organic Search,2022-06-16
+CUST-0804,Consumer,Paid Ads,2022-04-01
+CUST-0805,Consumer,Organic Search,2023-12-15
+CUST-0806,Consumer,Organic Search,2024-05-07
+CUST-0807,Consumer,Referral,2023-06-15
+CUST-0808,Consumer,Social Media,2022-02-08
+CUST-0809,Consumer,Social Media,2022-05-06
+CUST-0810,Small Business,Referral,2023-03-27
+CUST-0811,Consumer,Paid Ads,2022-06-22
+CUST-0812,Consumer,Email Campaign,2023-10-15
+CUST-0813,Consumer,Paid Ads,2024-01-24
+CUST-0814,Corporate,Email Campaign,2022-08-08
+CUST-0815,Consumer,Organic Search,2023-09-30
+CUST-0816,Small Business,Referral,2022-02-27
+CUST-0817,Consumer,Organic Search,2023-10-22
+CUST-0818,Consumer,Organic Search,2023-04-21
+CUST-0819,Consumer,Social Media,2023-04-01
+CUST-0820,Consumer,Paid Ads,2024-04-08
+CUST-0821,Corporate,Paid Ads,2024-06-13
+CUST-0822,Consumer,Paid Ads,2022-12-27
+CUST-0823,Consumer,Social Media,2022-01-01
+CUST-0824,Consumer,Organic Search,2023-01-22
+CUST-0825,Consumer,Organic Search,2022-12-14
+CUST-0826,Consumer,Organic Search,2022-07-09
+CUST-0827,Consumer,Paid Ads,2023-05-20
+CUST-0828,Small Business,Organic Search,2022-07-10
+CUST-0829,Consumer,Paid Ads,2023-05-23
+CUST-0830,Consumer,Paid Ads,2023-01-04
+CUST-0831,Corporate,Organic Search,2023-02-13
+CUST-0832,Consumer,Paid Ads,2024-04-03
+CUST-0833,Corporate,Email Campaign,2022-04-27
+CUST-0834,Consumer,Organic Search,2022-05-14
+CUST-0835,Corporate,Paid Ads,2022-02-27
+CUST-0836,Consumer,Social Media,2023-07-10
+CUST-0837,Small Business,Paid Ads,2023-11-16
+CUST-0838,Corporate,Social Media,2023-11-03
+CUST-0839,Consumer,Paid Ads,2022-06-22
+CUST-0840,Corporate,Paid Ads,2024-04-08
+CUST-0841,Consumer,Organic Search,2024-03-25
+CUST-0842,Consumer,Social Media,2022-05-29
+CUST-0843,Consumer,Social Media,2022-03-21
+CUST-0844,Consumer,Organic Search,2024-06-04
+CUST-0845,Consumer,Paid Ads,2022-08-01
+CUST-0846,Consumer,Referral,2022-07-22
+CUST-0847,Consumer,Paid Ads,2024-02-03
+CUST-0848,Small Business,Paid Ads,2022-08-17
+CUST-0849,Small Business,Email Campaign,2023-11-07
+CUST-0850,Consumer,Social Media,2022-08-15
+CUST-0851,Consumer,Paid Ads,2023-10-21
+CUST-0852,Consumer,Social Media,2023-06-16
+CUST-0853,Consumer,Email Campaign,2023-03-17
+CUST-0854,Consumer,Paid Ads,2023-02-06
+CUST-0855,Consumer,Paid Ads,2022-02-16
+CUST-0856,Consumer,Paid Ads,2022-08-21
+CUST-0857,Corporate,Referral,2022-11-01
+CUST-0858,Consumer,Social Media,2023-06-10
+CUST-0859,Consumer,Organic Search,2022-05-23
+CUST-0860,Consumer,Email Campaign,2023-02-19
+CUST-0861,Consumer,Paid Ads,2023-05-28
+CUST-0862,Consumer,Organic Search,2023-01-08
+CUST-0863,Consumer,Paid Ads,2023-07-20
+CUST-0864,Consumer,Paid Ads,2024-06-04
+CUST-0865,Consumer,Email Campaign,2022-09-16
+CUST-0866,Corporate,Organic Search,2023-10-18
+CUST-0867,Corporate,Email Campaign,2023-04-16
+CUST-0868,Consumer,Paid Ads,2022-01-12
+CUST-0869,Consumer,Organic Search,2022-11-26
+CUST-0870,Consumer,Referral,2024-01-06
+CUST-0871,Consumer,Paid Ads,2024-02-23
+CUST-0872,Consumer,Organic Search,2022-12-24
+CUST-0873,Consumer,Paid Ads,2023-02-12
+CUST-0874,Consumer,Email Campaign,2023-10-30
+CUST-0875,Consumer,Organic Search,2023-01-08
+CUST-0876,Consumer,Organic Search,2022-01-08
+CUST-0877,Corporate,Organic Search,2022-05-02
+CUST-0878,Corporate,Organic Search,2022-12-14
+CUST-0879,Small Business,Social Media,2023-11-07
+CUST-0880,Consumer,Paid Ads,2022-03-31
+CUST-0881,Small Business,Organic Search,2023-10-10
+CUST-0882,Consumer,Organic Search,2023-11-29
+CUST-0883,Small Business,Organic Search,2022-11-12
+CUST-0884,Consumer,Referral,2022-06-27
+CUST-0885,Small Business,Organic Search,2023-06-24
+CUST-0886,Consumer,Referral,2024-01-02
+CUST-0887,Small Business,Paid Ads,2024-05-18
+CUST-0888,Corporate,Organic Search,2022-02-10
+CUST-0889,Consumer,Email Campaign,2024-01-10
+CUST-0890,Consumer,Paid Ads,2023-12-05
+CUST-0891,Corporate,Social Media,2023-05-17
+CUST-0892,Consumer,Referral,2022-05-25
+CUST-0893,Small Business,Organic Search,2022-07-20
+CUST-0894,Consumer,Organic Search,2023-12-25
+CUST-0895,Consumer,Social Media,2023-04-06
+CUST-0896,Consumer,Organic Search,2024-01-02
+CUST-0897,Consumer,Organic Search,2024-01-22
+CUST-0898,Small Business,Organic Search,2024-06-27
+CUST-0899,Consumer,Organic Search,2023-07-12
+CUST-0900,Consumer,Social Media,2023-07-01
+CUST-0901,Consumer,Organic Search,2022-09-10
+CUST-0902,Consumer,Paid Ads,2023-01-25
+CUST-0903,Small Business,Paid Ads,2023-08-17
+CUST-0904,Corporate,Paid Ads,2024-06-01
+CUST-0905,Consumer,Organic Search,2022-09-13
+CUST-0906,Small Business,Social Media,2023-12-10
+CUST-0907,Small Business,Organic Search,2024-03-25
+CUST-0908,Consumer,Social Media,2023-03-26
+CUST-0909,Corporate,Email Campaign,2022-01-10
+CUST-0910,Consumer,Paid Ads,2024-04-03
+CUST-0911,Consumer,Paid Ads,2024-03-08
+CUST-0912,Small Business,Paid Ads,2022-08-30
+CUST-0913,Consumer,Paid Ads,2022-09-08
+CUST-0914,Small Business,Email Campaign,2024-05-26
+CUST-0915,Corporate,Email Campaign,2022-01-05
+CUST-0916,Consumer,Organic Search,2022-04-29
+CUST-0917,Corporate,Paid Ads,2024-03-11
+CUST-0918,Consumer,Referral,2023-01-09
+CUST-0919,Consumer,Referral,2022-03-06
+CUST-0920,Consumer,Paid Ads,2022-05-26
+CUST-0921,Corporate,Paid Ads,2022-08-12
+CUST-0922,Consumer,Organic Search,2022-08-27
+CUST-0923,Consumer,Referral,2022-06-26
+CUST-0924,Small Business,Organic Search,2024-02-18
+CUST-0925,Small Business,Paid Ads,2024-05-02
+CUST-0926,Small Business,Organic Search,2022-10-09
+CUST-0927,Consumer,Organic Search,2022-03-04
+CUST-0928,Consumer,Paid Ads,2022-08-05
+CUST-0929,Consumer,Referral,2024-05-03
+CUST-0930,Small Business,Organic Search,2024-04-06
+CUST-0931,Consumer,Paid Ads,2024-03-05
+CUST-0932,Consumer,Organic Search,2023-11-20
+CUST-0933,Corporate,Organic Search,2023-04-06
+CUST-0934,Consumer,Paid Ads,2023-09-02
+CUST-0935,Corporate,Paid Ads,2022-04-15
+CUST-0936,Small Business,Organic Search,2022-04-09
+CUST-0937,Small Business,Organic Search,2023-05-26
+CUST-0938,Consumer,Organic Search,2023-01-20
+CUST-0939,Consumer,Organic Search,2023-02-09
+CUST-0940,Small Business,Referral,2024-04-02
+CUST-0941,Small Business,Referral,2023-06-02
+CUST-0942,Small Business,Organic Search,2023-04-21
+CUST-0943,Consumer,Paid Ads,2023-12-10
+CUST-0944,Small Business,Email Campaign,2024-05-12
+CUST-0945,Small Business,Organic Search,2023-10-07
+CUST-0946,Small Business,Email Campaign,2024-05-19
+CUST-0947,Small Business,Referral,2024-02-10
+CUST-0948,Small Business,Organic Search,2023-03-13
+CUST-0949,Consumer,Organic Search,2022-01-23
+CUST-0950,Consumer,Referral,2023-07-19
+CUST-0951,Consumer,Paid Ads,2023-11-08
+CUST-0952,Consumer,Organic Search,2023-12-15
+CUST-0953,Consumer,Organic Search,2023-04-03
+CUST-0954,Consumer,Paid Ads,2022-03-24
+CUST-0955,Consumer,Social Media,2022-05-25
+CUST-0956,Consumer,Social Media,2022-03-26
+CUST-0957,Consumer,Referral,2022-03-19
+CUST-0958,Small Business,Organic Search,2023-04-02
+CUST-0959,Corporate,Paid Ads,2024-05-27
+CUST-0960,Consumer,Paid Ads,2022-01-01
+CUST-0961,Corporate,Paid Ads,2022-02-20
+CUST-0962,Consumer,Organic Search,2023-11-16
+CUST-0963,Consumer,Referral,2023-12-18
+CUST-0964,Consumer,Email Campaign,2024-02-11
+CUST-0965,Consumer,Paid Ads,2023-03-22
+CUST-0966,Small Business,Paid Ads,2023-03-25
+CUST-0967,Small Business,Organic Search,2024-05-30
+CUST-0968,Consumer,Paid Ads,2023-05-03
+CUST-0969,Consumer,Social Media,2024-03-10
+CUST-0970,Consumer,Paid Ads,2022-02-03
+CUST-0971,Consumer,Referral,2022-12-14
+CUST-0972,Consumer,Paid Ads,2022-04-05
+CUST-0973,Consumer,Paid Ads,2022-03-13
+CUST-0974,Small Business,Social Media,2023-07-05
+CUST-0975,Corporate,Organic Search,2022-06-03
+CUST-0976,Consumer,Paid Ads,2022-09-07
+CUST-0977,Corporate,Organic Search,2023-11-05
+CUST-0978,Consumer,Paid Ads,2023-03-14
+CUST-0979,Consumer,Social Media,2022-04-28
+CUST-0980,Consumer,Paid Ads,2024-02-10
+CUST-0981,Consumer,Social Media,2024-06-09
+CUST-0982,Corporate,Paid Ads,2022-11-02
+CUST-0983,Consumer,Organic Search,2022-09-25
+CUST-0984,Consumer,Email Campaign,2022-02-23
+CUST-0985,Consumer,Organic Search,2022-08-24
+CUST-0986,Consumer,Organic Search,2023-01-24
+CUST-0987,Corporate,Paid Ads,2024-01-04
+CUST-0988,Consumer,Organic Search,2024-02-02
+CUST-0989,Consumer,Organic Search,2024-04-04
+CUST-0990,Consumer,Social Media,2023-02-05
+CUST-0991,Consumer,Paid Ads,2023-09-16
+CUST-0992,Consumer,Paid Ads,2024-02-06
+CUST-0993,Small Business,Referral,2022-10-30
+CUST-0994,Consumer,Paid Ads,2022-07-26
+CUST-0995,Small Business,Email Campaign,2022-08-17
+CUST-0996,Small Business,Organic Search,2024-05-02
+CUST-0997,Small Business,Paid Ads,2024-06-28
+CUST-0998,Consumer,Email Campaign,2023-08-01
+CUST-0999,Consumer,Paid Ads,2022-03-16
+CUST-1000,Consumer,Social Media,2023-03-11
+CUST-1001,Small Business,Paid Ads,2022-04-13
+CUST-1002,Consumer,Organic Search,2023-02-26
+CUST-1003,Consumer,Paid Ads,2023-12-05
+CUST-1004,Consumer,Paid Ads,2024-02-03
+CUST-1005,Consumer,Email Campaign,2024-01-08
+CUST-1006,Consumer,Organic Search,2024-03-16
+CUST-1007,Consumer,Referral,2022-11-02
+CUST-1008,Small Business,Referral,2022-04-08
+CUST-1009,Consumer,Organic Search,2024-04-29
+CUST-1010,Consumer,Organic Search,2024-03-08
+CUST-1011,Consumer,Email Campaign,2022-12-01
+CUST-1012,Consumer,Referral,2024-05-08
+CUST-1013,Consumer,Paid Ads,2023-03-11
+CUST-1014,Small Business,Organic Search,2023-03-23
+CUST-1015,Consumer,Paid Ads,2022-11-04
+CUST-1016,Small Business,Social Media,2022-09-06
+CUST-1017,Consumer,Organic Search,2022-06-15
+CUST-1018,Consumer,Social Media,2023-04-26
+CUST-1019,Small Business,Organic Search,2022-12-01
+CUST-1020,Consumer,Organic Search,2023-06-26
+CUST-1021,Consumer,Paid Ads,2024-01-29
+CUST-1022,Consumer,Paid Ads,2022-04-16
+CUST-1023,Consumer,Organic Search,2023-07-17
+CUST-1024,Small Business,Paid Ads,2022-03-22
+CUST-1025,Consumer,Organic Search,2022-05-13
+CUST-1026,Small Business,Organic Search,2024-03-07
+CUST-1027,Corporate,Organic Search,2024-06-18
+CUST-1028,Consumer,Referral,2022-05-18
+CUST-1029,Corporate,Paid Ads,2022-07-03
+CUST-1030,Consumer,Paid Ads,2023-02-05
+CUST-1031,Corporate,Paid Ads,2022-11-26
+CUST-1032,Consumer,Referral,2024-02-24
+CUST-1033,Small Business,Organic Search,2023-05-23
+CUST-1034,Consumer,Social Media,2024-05-01
+CUST-1035,Consumer,Social Media,2022-03-10
+CUST-1036,Consumer,Paid Ads,2023-06-30
+CUST-1037,Small Business,Organic Search,2024-02-13
+CUST-1038,Consumer,Social Media,2022-02-22
+CUST-1039,Consumer,Organic Search,2023-03-26
+CUST-1040,Small Business,Paid Ads,2022-07-24
+CUST-1041,Small Business,Social Media,2022-05-06
+CUST-1042,Corporate,Organic Search,2024-01-17
+CUST-1043,Small Business,Email Campaign,2022-02-12
+CUST-1044,Corporate,Organic Search,2024-01-22
+CUST-1045,Small Business,Email Campaign,2024-06-01
+CUST-1046,Consumer,Paid Ads,2022-04-21
+CUST-1047,Consumer,Organic Search,2024-01-31
+CUST-1048,Small Business,Organic Search,2023-10-25
+CUST-1049,Consumer,Referral,2022-07-02
+CUST-1050,Consumer,Organic Search,2024-04-27
+CUST-1051,Consumer,Organic Search,2022-04-05
+CUST-1052,Corporate,Organic Search,2023-01-09
+CUST-1053,Consumer,Paid Ads,2023-06-04
+CUST-1054,Consumer,Paid Ads,2024-06-18
+CUST-1055,Consumer,Organic Search,2022-12-26
+CUST-1056,Consumer,Organic Search,2024-06-18
+CUST-1057,Consumer,Organic Search,2023-11-27
+CUST-1058,Consumer,Organic Search,2022-10-08
+CUST-1059,Consumer,Paid Ads,2022-07-14
+CUST-1060,Small Business,Social Media,2024-05-13
+CUST-1061,Consumer,Organic Search,2022-07-14
+CUST-1062,Small Business,Paid Ads,2023-10-29
+CUST-1063,Small Business,Paid Ads,2022-04-03
+CUST-1064,Consumer,Referral,2023-11-03
+CUST-1065,Small Business,Referral,2022-03-02
+CUST-1066,Consumer,Email Campaign,2023-09-26
+CUST-1067,Corporate,Organic Search,2022-02-20
+CUST-1068,Consumer,Organic Search,2023-02-07
+CUST-1069,Small Business,Organic Search,2024-02-28
+CUST-1070,Consumer,Organic Search,2022-01-05
+CUST-1071,Consumer,Paid Ads,2023-04-11
+CUST-1072,Consumer,Social Media,2023-08-27
+CUST-1073,Small Business,Email Campaign,2023-11-13
+CUST-1074,Small Business,Email Campaign,2024-04-08
+CUST-1075,Consumer,Paid Ads,2023-06-18
+CUST-1076,Consumer,Social Media,2023-02-09
+CUST-1077,Consumer,Organic Search,2024-04-17
+CUST-1078,Small Business,Organic Search,2023-05-28
+CUST-1079,Consumer,Social Media,2023-10-07
+CUST-1080,Corporate,Organic Search,2022-08-21
+CUST-1081,Consumer,Paid Ads,2023-06-08
+CUST-1082,Consumer,Organic Search,2022-12-12
+CUST-1083,Consumer,Social Media,2022-02-15
+CUST-1084,Consumer,Social Media,2023-06-30
+CUST-1085,Consumer,Organic Search,2022-03-19
+CUST-1086,Consumer,Email Campaign,2023-12-31
+CUST-1087,Small Business,Organic Search,2024-03-23
+CUST-1088,Consumer,Paid Ads,2022-03-14
+CUST-1089,Consumer,Social Media,2024-03-04
+CUST-1090,Consumer,Social Media,2022-09-06
+CUST-1091,Consumer,Referral,2022-02-16
+CUST-1092,Consumer,Organic Search,2022-05-01
+CUST-1093,Consumer,Social Media,2022-08-02
+CUST-1094,Consumer,Paid Ads,2022-08-27
+CUST-1095,Consumer,Email Campaign,2022-02-25
+CUST-1096,Consumer,Organic Search,2022-12-16
+CUST-1097,Consumer,Social Media,2022-04-17
+CUST-1098,Consumer,Paid Ads,2024-04-10
+CUST-1099,Consumer,Organic Search,2022-02-17
+CUST-1100,Corporate,Paid Ads,2023-07-27
+CUST-1101,Consumer,Organic Search,2022-12-03
+CUST-1102,Small Business,Paid Ads,2022-01-26
+CUST-1103,Consumer,Email Campaign,2024-03-14
+CUST-1104,Small Business,Paid Ads,2022-09-14
+CUST-1105,Small Business,Social Media,2022-01-08
+CUST-1106,Consumer,Paid Ads,2023-09-17
+CUST-1107,Corporate,Organic Search,2024-05-16
+CUST-1108,Consumer,Organic Search,2022-09-10
+CUST-1109,Consumer,Paid Ads,2023-11-23
+CUST-1110,Small Business,Organic Search,2023-12-20
+CUST-1111,Small Business,Organic Search,2022-10-30
+CUST-1112,Consumer,Paid Ads,2023-10-01
+CUST-1113,Consumer,Organic Search,2022-02-25
+CUST-1114,Consumer,Organic Search,2023-12-27
+CUST-1115,Consumer,Paid Ads,2023-06-10
+CUST-1116,Small Business,Organic Search,2023-04-19
+CUST-1117,Consumer,Referral,2022-01-28
+CUST-1118,Consumer,Email Campaign,2022-03-19
+CUST-1119,Consumer,Social Media,2022-08-04
+CUST-1120,Consumer,Organic Search,2023-01-21
+CUST-1121,Consumer,Social Media,2022-12-31
+CUST-1122,Consumer,Email Campaign,2023-10-28
+CUST-1123,Corporate,Social Media,2023-06-10
+CUST-1124,Small Business,Organic Search,2023-11-30
+CUST-1125,Consumer,Social Media,2022-11-08
+CUST-1126,Corporate,Email Campaign,2024-06-01
+CUST-1127,Small Business,Paid Ads,2022-01-07
+CUST-1128,Small Business,Social Media,2022-01-03
+CUST-1129,Consumer,Paid Ads,2023-09-15
+CUST-1130,Consumer,Paid Ads,2024-01-20
+CUST-1131,Consumer,Organic Search,2022-12-29
+CUST-1132,Consumer,Social Media,2024-01-21
+CUST-1133,Consumer,Organic Search,2023-05-23
+CUST-1134,Consumer,Paid Ads,2022-10-01
+CUST-1135,Consumer,Organic Search,2023-05-21
+CUST-1136,Small Business,Paid Ads,2024-03-16
+CUST-1137,Consumer,Organic Search,2024-01-09
+CUST-1138,Consumer,Social Media,2024-06-01
+CUST-1139,Corporate,Social Media,2022-01-15
+CUST-1140,Corporate,Organic Search,2022-07-11
+CUST-1141,Small Business,Organic Search,2023-09-23
+CUST-1142,Corporate,Organic Search,2023-04-30
+CUST-1143,Consumer,Email Campaign,2022-01-28
+CUST-1144,Corporate,Paid Ads,2023-12-15
+CUST-1145,Consumer,Paid Ads,2022-02-08
+CUST-1146,Consumer,Organic Search,2022-09-30
+CUST-1147,Consumer,Social Media,2022-08-19
+CUST-1148,Consumer,Email Campaign,2022-03-27
+CUST-1149,Consumer,Email Campaign,2023-04-19
+CUST-1150,Consumer,Paid Ads,2022-05-06
+CUST-1151,Small Business,Organic Search,2024-03-22
+CUST-1152,Consumer,Organic Search,2023-06-21
+CUST-1153,Consumer,Organic Search,2022-05-25
+CUST-1154,Small Business,Organic Search,2023-06-09
+CUST-1155,Consumer,Organic Search,2022-07-31
+CUST-1156,Consumer,Organic Search,2022-01-25
+CUST-1157,Small Business,Paid Ads,2023-08-03
+CUST-1158,Consumer,Referral,2023-01-29
+CUST-1159,Consumer,Paid Ads,2022-03-08
+CUST-1160,Corporate,Email Campaign,2022-08-21
+CUST-1161,Consumer,Social Media,2022-04-19
+CUST-1162,Consumer,Organic Search,2022-05-26
+CUST-1163,Corporate,Social Media,2022-04-21
+CUST-1164,Small Business,Organic Search,2022-08-16
+CUST-1165,Consumer,Social Media,2022-04-21
+CUST-1166,Consumer,Organic Search,2023-04-15
+CUST-1167,Consumer,Referral,2022-02-03
+CUST-1168,Consumer,Organic Search,2023-09-15
+CUST-1169,Consumer,Organic Search,2024-02-15
+CUST-1170,Consumer,Referral,2023-01-04
+CUST-1171,Corporate,Organic Search,2024-01-18
+CUST-1172,Consumer,Social Media,2023-08-18
+CUST-1173,Consumer,Social Media,2023-07-08
+CUST-1174,Consumer,Email Campaign,2023-03-01
+CUST-1175,Small Business,Referral,2023-09-05
+CUST-1176,Consumer,Referral,2023-06-02
+CUST-1177,Consumer,Organic Search,2023-11-23
+CUST-1178,Small Business,Email Campaign,2022-10-09
+CUST-1179,Consumer,Social Media,2022-11-16
+CUST-1180,Consumer,Social Media,2024-01-08
+CUST-1181,Consumer,Organic Search,2023-03-19
+CUST-1182,Consumer,Social Media,2022-11-11
+CUST-1183,Consumer,Referral,2024-05-26
+CUST-1184,Consumer,Email Campaign,2024-01-11
+CUST-1185,Consumer,Paid Ads,2023-01-12
+CUST-1186,Consumer,Organic Search,2022-10-16
+CUST-1187,Small Business,Paid Ads,2023-03-13
+CUST-1188,Corporate,Email Campaign,2023-10-24
+CUST-1189,Small Business,Social Media,2022-10-04
+CUST-1190,Small Business,Paid Ads,2023-12-11
+CUST-1191,Consumer,Organic Search,2023-08-05
+CUST-1192,Corporate,Paid Ads,2023-05-18
+CUST-1193,Consumer,Paid Ads,2023-09-16
+CUST-1194,Corporate,Referral,2023-05-31
+CUST-1195,Corporate,Social Media,2022-12-16
+CUST-1196,Small Business,Organic Search,2024-04-22
+CUST-1197,Corporate,Paid Ads,2023-03-22
+CUST-1198,Consumer,Organic Search,2024-04-09
+CUST-1199,Consumer,Referral,2022-12-16
+CUST-1200,Consumer,Paid Ads,2023-08-30
+CUST-1201,Consumer,Paid Ads,2023-10-26
+CUST-1202,Consumer,Paid Ads,2024-04-02
+CUST-1203,Consumer,Social Media,2022-05-17
+CUST-1204,Corporate,Social Media,2024-01-29
+CUST-1205,Consumer,Social Media,2024-06-17
+CUST-1206,Small Business,Organic Search,2022-08-31
+CUST-1207,Corporate,Organic Search,2023-06-27
+CUST-1208,Corporate,Organic Search,2022-02-09
+CUST-1209,Corporate,Social Media,2022-08-17
+CUST-1210,Consumer,Organic Search,2023-07-02
+CUST-1211,Corporate,Paid Ads,2022-08-11
+CUST-1212,Small Business,Email Campaign,2022-01-06
+CUST-1213,Consumer,Email Campaign,2022-11-18
+CUST-1214,Consumer,Paid Ads,2023-04-13
+CUST-1215,Small Business,Paid Ads,2024-01-02
+CUST-1216,Consumer,Organic Search,2022-03-16
+CUST-1217,Consumer,Social Media,2022-01-04
+CUST-1218,Small Business,Email Campaign,2024-04-26
+CUST-1219,Consumer,Organic Search,2023-10-08
+CUST-1220,Consumer,Paid Ads,2022-04-28
+CUST-1221,Small Business,Email Campaign,2024-05-30
+CUST-1222,Consumer,Email Campaign,2023-08-29
+CUST-1223,Consumer,Organic Search,2023-05-19
+CUST-1224,Consumer,Paid Ads,2023-07-28
+CUST-1225,Consumer,Organic Search,2023-03-17
+CUST-1226,Corporate,Organic Search,2022-07-13
+CUST-1227,Consumer,Email Campaign,2024-04-26
+CUST-1228,Consumer,Email Campaign,2023-12-16
+CUST-1229,Consumer,Social Media,2023-01-27
+CUST-1230,Consumer,Organic Search,2022-01-26
+CUST-1231,Small Business,Email Campaign,2023-03-11
+CUST-1232,Small Business,Paid Ads,2022-06-22
+CUST-1233,Consumer,Organic Search,2022-10-27
+CUST-1234,Consumer,Paid Ads,2023-10-07
+CUST-1235,Consumer,Organic Search,2022-11-22
+CUST-1236,Consumer,Social Media,2023-02-14
+CUST-1237,Small Business,Paid Ads,2022-04-28
+CUST-1238,Consumer,Organic Search,2024-04-15
+CUST-1239,Consumer,Organic Search,2024-02-26
+CUST-1240,Consumer,Organic Search,2023-12-25
+CUST-1241,Corporate,Organic Search,2022-08-13
+CUST-1242,Corporate,Paid Ads,2023-06-16
+CUST-1243,Consumer,Email Campaign,2022-04-23
+CUST-1244,Small Business,Organic Search,2022-05-20
+CUST-1245,Consumer,Organic Search,2023-07-13
+CUST-1246,Consumer,Paid Ads,2022-01-01
+CUST-1247,Small Business,Email Campaign,2022-03-31
+CUST-1248,Corporate,Organic Search,2023-10-16
+CUST-1249,Corporate,Organic Search,2022-11-16
+CUST-1250,Consumer,Paid Ads,2023-07-04
+CUST-1251,Consumer,Organic Search,2024-03-15
+CUST-1252,Small Business,Organic Search,2024-06-12
+CUST-1253,Consumer,Social Media,2022-05-19
+CUST-1254,Consumer,Paid Ads,2023-05-26
+CUST-1255,Consumer,Paid Ads,2024-05-17
+CUST-1256,Small Business,Social Media,2024-04-24
+CUST-1257,Consumer,Social Media,2022-09-16
+CUST-1258,Consumer,Organic Search,2023-11-04
+CUST-1259,Corporate,Paid Ads,2024-06-20
+CUST-1260,Consumer,Organic Search,2023-11-21
+CUST-1261,Consumer,Organic Search,2022-01-10
+CUST-1262,Consumer,Social Media,2022-09-18
+CUST-1263,Consumer,Email Campaign,2023-10-12
+CUST-1264,Consumer,Referral,2022-06-21
+CUST-1265,Consumer,Paid Ads,2024-06-16
+CUST-1266,Small Business,Organic Search,2022-01-13
+CUST-1267,Consumer,Organic Search,2022-06-17
+CUST-1268,Corporate,Email Campaign,2023-10-04
+CUST-1269,Consumer,Paid Ads,2023-08-19
+CUST-1270,Consumer,Paid Ads,2022-11-17
+CUST-1271,Consumer,Social Media,2022-11-15
+CUST-1272,Consumer,Social Media,2023-09-05
+CUST-1273,Small Business,Email Campaign,2022-11-25
+CUST-1274,Consumer,Organic Search,2024-02-24
+CUST-1275,Consumer,Social Media,2024-02-16
+CUST-1276,Corporate,Email Campaign,2024-06-29
+CUST-1277,Corporate,Organic Search,2023-07-04
+CUST-1278,Corporate,Social Media,2023-02-23
+CUST-1279,Consumer,Organic Search,2023-08-29
+CUST-1280,Small Business,Referral,2022-04-05
+CUST-1281,Consumer,Organic Search,2024-03-27
+CUST-1282,Consumer,Paid Ads,2023-08-04
+CUST-1283,Consumer,Organic Search,2022-11-14
+CUST-1284,Consumer,Social Media,2022-08-24
+CUST-1285,Consumer,Organic Search,2022-11-30
+CUST-1286,Consumer,Organic Search,2024-06-03
+CUST-1287,Small Business,Paid Ads,2023-01-11
+CUST-1288,Consumer,Email Campaign,2023-04-04
+CUST-1289,Consumer,Organic Search,2022-05-17
+CUST-1290,Consumer,Organic Search,2023-08-11
+CUST-1291,Corporate,Social Media,2023-07-01
+CUST-1292,Consumer,Paid Ads,2023-05-28
+CUST-1293,Consumer,Email Campaign,2022-10-23
+CUST-1294,Small Business,Organic Search,2022-11-16
+CUST-1295,Small Business,Social Media,2023-07-26
+CUST-1296,Consumer,Organic Search,2024-04-11
+CUST-1297,Small Business,Organic Search,2022-12-15
+CUST-1298,Small Business,Social Media,2024-04-19
+CUST-1299,Small Business,Paid Ads,2024-02-18
+CUST-1300,Consumer,Social Media,2024-05-22
+CUST-1301,Small Business,Organic Search,2022-08-17
+CUST-1302,Consumer,Paid Ads,2022-09-27
+CUST-1303,Consumer,Paid Ads,2024-04-07
+CUST-1304,Consumer,Referral,2024-03-08
+CUST-1305,Consumer,Organic Search,2022-10-18
+CUST-1306,Consumer,Organic Search,2023-12-26
+CUST-1307,Small Business,Paid Ads,2022-06-14
+CUST-1308,Consumer,Paid Ads,2022-01-05
+CUST-1309,Consumer,Organic Search,2024-04-30
+CUST-1310,Consumer,Email Campaign,2023-01-14
+CUST-1311,Consumer,Organic Search,2022-03-19
+CUST-1312,Corporate,Email Campaign,2023-02-14
+CUST-1313,Consumer,Organic Search,2023-07-28
+CUST-1314,Consumer,Social Media,2022-05-12
+CUST-1315,Consumer,Email Campaign,2023-08-24
+CUST-1316,Consumer,Organic Search,2024-01-19
+CUST-1317,Consumer,Referral,2022-02-11
+CUST-1318,Small Business,Paid Ads,2022-03-30
+CUST-1319,Corporate,Referral,2023-02-06
+CUST-1320,Consumer,Social Media,2022-10-23
+CUST-1321,Small Business,Organic Search,2024-04-19
+CUST-1322,Small Business,Organic Search,2022-10-22
+CUST-1323,Small Business,Organic Search,2023-09-08
+CUST-1324,Consumer,Organic Search,2023-06-10
+CUST-1325,Consumer,Organic Search,2024-03-10
+CUST-1326,Consumer,Organic Search,2023-11-22
+CUST-1327,Small Business,Paid Ads,2023-09-29
+CUST-1328,Small Business,Social Media,2023-02-26
+CUST-1329,Consumer,Organic Search,2024-05-14
+CUST-1330,Consumer,Organic Search,2022-01-23
+CUST-1331,Corporate,Social Media,2023-07-29
+CUST-1332,Small Business,Organic Search,2022-05-23
+CUST-1333,Corporate,Organic Search,2023-10-27
+CUST-1334,Small Business,Organic Search,2022-05-25
+CUST-1335,Consumer,Referral,2022-08-13
+CUST-1336,Consumer,Email Campaign,2023-05-18
+CUST-1337,Small Business,Paid Ads,2024-03-31
+CUST-1338,Consumer,Social Media,2023-09-08
+CUST-1339,Consumer,Paid Ads,2022-04-14
+CUST-1340,Small Business,Social Media,2022-02-08
+CUST-1341,Consumer,Social Media,2022-07-17
+CUST-1342,Small Business,Paid Ads,2023-10-08
+CUST-1343,Consumer,Organic Search,2023-08-02
+CUST-1344,Corporate,Organic Search,2023-01-26
+CUST-1345,Consumer,Paid Ads,2022-06-28
+CUST-1346,Consumer,Email Campaign,2023-07-08
+CUST-1347,Consumer,Paid Ads,2023-03-24
+CUST-1348,Consumer,Email Campaign,2023-05-15
+CUST-1349,Small Business,Referral,2022-01-15
+CUST-1350,Small Business,Organic Search,2023-09-15
+CUST-1351,Consumer,Social Media,2023-10-31
+CUST-1352,Consumer,Social Media,2022-10-16
+CUST-1353,Consumer,Referral,2023-04-23
+CUST-1354,Consumer,Referral,2022-08-19
+CUST-1355,Corporate,Social Media,2023-02-24
+CUST-1356,Small Business,Organic Search,2022-06-06
+CUST-1357,Small Business,Social Media,2023-07-04
+CUST-1358,Small Business,Organic Search,2023-03-17
+CUST-1359,Consumer,Social Media,2022-04-07
+CUST-1360,Corporate,Email Campaign,2023-02-15
+CUST-1361,Small Business,Paid Ads,2022-10-16
+CUST-1362,Small Business,Social Media,2022-09-11
+CUST-1363,Small Business,Paid Ads,2022-07-15
+CUST-1364,Consumer,Paid Ads,2023-08-21
+CUST-1365,Small Business,Organic Search,2024-04-13
+CUST-1366,Consumer,Social Media,2023-06-06
+CUST-1367,Consumer,Referral,2023-06-01
+CUST-1368,Consumer,Referral,2023-09-27
+CUST-1369,Corporate,Organic Search,2024-04-21
+CUST-1370,Small Business,Email Campaign,2024-05-14
+CUST-1371,Small Business,Social Media,2022-04-28
+CUST-1372,Small Business,Organic Search,2024-03-16
+CUST-1373,Consumer,Organic Search,2024-06-27
+CUST-1374,Corporate,Organic Search,2022-06-08
+CUST-1375,Consumer,Email Campaign,2024-03-25
+CUST-1376,Consumer,Social Media,2022-08-16
+CUST-1377,Consumer,Social Media,2024-05-26
+CUST-1378,Small Business,Organic Search,2022-08-04
+CUST-1379,Small Business,Social Media,2023-11-27
+CUST-1380,Consumer,Organic Search,2022-01-15
+CUST-1381,Consumer,Paid Ads,2022-06-06
+CUST-1382,Small Business,Paid Ads,2023-10-10
+CUST-1383,Consumer,Organic Search,2022-09-18
+CUST-1384,Small Business,Email Campaign,2022-06-06
+CUST-1385,Corporate,Organic Search,2022-02-16
+CUST-1386,Consumer,Social Media,2022-11-20
+CUST-1387,Consumer,Paid Ads,2024-04-23
+CUST-1388,Small Business,Paid Ads,2023-11-16
+CUST-1389,Small Business,Organic Search,2022-05-10
+CUST-1390,Consumer,Organic Search,2023-02-15
+CUST-1391,Corporate,Email Campaign,2022-04-05
+CUST-1392,Consumer,Organic Search,2023-09-19
+CUST-1393,Consumer,Email Campaign,2024-01-25
+CUST-1394,Small Business,Referral,2022-10-19
+CUST-1395,Small Business,Organic Search,2024-03-04
+CUST-1396,Consumer,Organic Search,2024-03-21
+CUST-1397,Small Business,Social Media,2022-10-10
+CUST-1398,Consumer,Referral,2022-03-10
+CUST-1399,Consumer,Email Campaign,2023-10-22
+CUST-1400,Consumer,Paid Ads,2022-01-11
+CUST-1401,Small Business,Social Media,2022-09-11
+CUST-1402,Consumer,Organic Search,2024-04-21
+CUST-1403,Consumer,Referral,2024-05-21
+CUST-1404,Consumer,Referral,2023-07-04
+CUST-1405,Small Business,Organic Search,2022-05-14
+CUST-1406,Small Business,Organic Search,2023-12-13
+CUST-1407,Small Business,Organic Search,2022-01-23
+CUST-1408,Consumer,Organic Search,2024-03-25
+CUST-1409,Consumer,Email Campaign,2022-12-12
+CUST-1410,Consumer,Paid Ads,2022-10-29
+CUST-1411,Small Business,Organic Search,2022-12-29
+CUST-1412,Corporate,Organic Search,2023-01-31
+CUST-1413,Consumer,Referral,2022-08-06
+CUST-1414,Small Business,Paid Ads,2022-05-21
+CUST-1415,Consumer,Paid Ads,2023-09-08
+CUST-1416,Consumer,Organic Search,2022-07-29
+CUST-1417,Consumer,Referral,2023-09-15
+CUST-1418,Consumer,Email Campaign,2023-09-08
+CUST-1419,Consumer,Organic Search,2024-04-07
+CUST-1420,Consumer,Organic Search,2023-11-14
+CUST-1421,Consumer,Organic Search,2023-04-05
+CUST-1422,Small Business,Organic Search,2022-12-22
+CUST-1423,Consumer,Paid Ads,2022-11-20
+CUST-1424,Consumer,Referral,2022-05-13
+CUST-1425,Small Business,Paid Ads,2024-06-06
+CUST-1426,Consumer,Email Campaign,2024-03-15
+CUST-1427,Consumer,Paid Ads,2024-04-19
+CUST-1428,Small Business,Social Media,2022-05-07
+CUST-1429,Consumer,Social Media,2022-04-16
+CUST-1430,Consumer,Organic Search,2023-08-27
+CUST-1431,Consumer,Paid Ads,2024-03-09
+CUST-1432,Corporate,Social Media,2023-01-13
+CUST-1433,Consumer,Organic Search,2024-06-23
+CUST-1434,Small Business,Paid Ads,2022-02-20
+CUST-1435,Consumer,Paid Ads,2022-01-29
+CUST-1436,Consumer,Referral,2023-04-07
+CUST-1437,Consumer,Paid Ads,2022-10-23
+CUST-1438,Small Business,Email Campaign,2022-10-24
+CUST-1439,Consumer,Paid Ads,2023-12-27
+CUST-1440,Consumer,Social Media,2024-02-18
+CUST-1441,Consumer,Paid Ads,2023-02-11
+CUST-1442,Consumer,Email Campaign,2024-02-08
+CUST-1443,Corporate,Paid Ads,2024-03-24
+CUST-1444,Consumer,Paid Ads,2023-09-05
+CUST-1445,Consumer,Social Media,2023-02-09
+CUST-1446,Consumer,Paid Ads,2022-12-12
+CUST-1447,Corporate,Organic Search,2023-09-14
+CUST-1448,Consumer,Organic Search,2023-02-24
+CUST-1449,Consumer,Organic Search,2022-07-01
+CUST-1450,Small Business,Email Campaign,2024-04-04
+CUST-1451,Small Business,Organic Search,2022-01-01
+CUST-1452,Consumer,Organic Search,2024-04-10
+CUST-1453,Consumer,Social Media,2023-07-21
+CUST-1454,Consumer,Organic Search,2023-01-06
+CUST-1455,Consumer,Paid Ads,2024-06-29
+CUST-1456,Consumer,Organic Search,2023-10-23
+CUST-1457,Consumer,Referral,2023-03-07
+CUST-1458,Consumer,Email Campaign,2022-11-05
+CUST-1459,Consumer,Email Campaign,2022-05-17
+CUST-1460,Small Business,Paid Ads,2022-07-21
+CUST-1461,Corporate,Social Media,2023-03-12
+CUST-1462,Consumer,Organic Search,2022-11-09
+CUST-1463,Consumer,Organic Search,2022-04-27
+CUST-1464,Consumer,Organic Search,2023-10-28
+CUST-1465,Corporate,Paid Ads,2024-03-13
+CUST-1466,Consumer,Paid Ads,2023-07-29
+CUST-1467,Consumer,Paid Ads,2022-09-01
+CUST-1468,Consumer,Organic Search,2023-06-21
+CUST-1469,Consumer,Paid Ads,2023-08-25
+CUST-1470,Consumer,Social Media,2022-03-16
+CUST-1471,Consumer,Paid Ads,2024-03-16
+CUST-1472,Consumer,Social Media,2023-01-21
+CUST-1473,Corporate,Organic Search,2024-06-21
+CUST-1474,Consumer,Email Campaign,2022-07-29
+CUST-1475,Small Business,Paid Ads,2023-04-20
+CUST-1476,Small Business,Organic Search,2023-02-22
+CUST-1477,Consumer,Organic Search,2022-12-13
+CUST-1478,Consumer,Paid Ads,2023-06-13
+CUST-1479,Consumer,Email Campaign,2023-10-02
+CUST-1480,Consumer,Paid Ads,2024-05-25
+CUST-1481,Small Business,Organic Search,2024-02-02
+CUST-1482,Corporate,Email Campaign,2022-06-28
+CUST-1483,Consumer,Social Media,2022-07-01
+CUST-1484,Consumer,Paid Ads,2023-10-26
+CUST-1485,Corporate,Paid Ads,2022-01-25
+CUST-1486,Small Business,Organic Search,2022-06-29
+CUST-1487,Corporate,Paid Ads,2023-12-11
+CUST-1488,Consumer,Paid Ads,2023-05-16
+CUST-1489,Consumer,Referral,2024-05-05
+CUST-1490,Small Business,Paid Ads,2022-06-10
+CUST-1491,Small Business,Paid Ads,2022-06-26
+CUST-1492,Consumer,Paid Ads,2022-10-12
+CUST-1493,Consumer,Email Campaign,2022-03-04
+CUST-1494,Consumer,Email Campaign,2023-10-24
+CUST-1495,Consumer,Paid Ads,2023-10-28
+CUST-1496,Consumer,Social Media,2022-06-05
+CUST-1497,Corporate,Paid Ads,2024-05-31
+CUST-1498,Consumer,Paid Ads,2023-04-14
+CUST-1499,Small Business,Organic Search,2022-02-18
+CUST-1500,Consumer,Paid Ads,2024-04-28
+CUST-1501,Small Business,Organic Search,2022-03-25
+CUST-1502,Corporate,Email Campaign,2022-12-27
+CUST-1503,Consumer,Organic Search,2023-11-20
+CUST-1504,Consumer,Referral,2022-05-28
+CUST-1505,Consumer,Paid Ads,2023-09-22
+CUST-1506,Consumer,Social Media,2022-12-08
+CUST-1507,Small Business,Paid Ads,2023-04-21
+CUST-1508,Corporate,Organic Search,2022-03-04
+CUST-1509,Consumer,Paid Ads,2023-12-02
+CUST-1510,Consumer,Organic Search,2022-12-26
+CUST-1511,Consumer,Paid Ads,2023-07-15
+CUST-1512,Small Business,Paid Ads,2022-11-23
+CUST-1513,Consumer,Social Media,2024-02-08
+CUST-1514,Consumer,Organic Search,2024-01-06
+CUST-1515,Consumer,Organic Search,2022-05-21
+CUST-1516,Consumer,Paid Ads,2022-08-03
+CUST-1517,Consumer,Referral,2023-03-11
+CUST-1518,Small Business,Social Media,2024-06-09
+CUST-1519,Consumer,Paid Ads,2023-12-24
+CUST-1520,Consumer,Paid Ads,2022-11-14
+CUST-1521,Small Business,Organic Search,2022-02-01
+CUST-1522,Small Business,Referral,2023-11-01
+CUST-1523,Consumer,Social Media,2022-10-12
+CUST-1524,Consumer,Organic Search,2022-11-01
+CUST-1525,Consumer,Paid Ads,2023-03-05
+CUST-1526,Consumer,Organic Search,2023-04-22
+CUST-1527,Consumer,Referral,2022-10-13
+CUST-1528,Consumer,Organic Search,2022-05-24
+CUST-1529,Consumer,Social Media,2023-02-28
+CUST-1530,Small Business,Organic Search,2022-01-19
+CUST-1531,Consumer,Social Media,2022-01-18
+CUST-1532,Small Business,Social Media,2024-02-08
+CUST-1533,Consumer,Social Media,2023-08-13
+CUST-1534,Corporate,Paid Ads,2023-01-06
+CUST-1535,Small Business,Email Campaign,2022-06-24
+CUST-1536,Small Business,Organic Search,2022-07-13
+CUST-1537,Small Business,Organic Search,2023-05-17
+CUST-1538,Corporate,Organic Search,2022-04-23
+CUST-1539,Consumer,Referral,2022-04-24
+CUST-1540,Consumer,Paid Ads,2022-08-10
+CUST-1541,Consumer,Social Media,2023-11-09
+CUST-1542,Small Business,Social Media,2024-04-10
+CUST-1543,Small Business,Organic Search,2023-10-06
+CUST-1544,Consumer,Organic Search,2024-06-15
+CUST-1545,Consumer,Organic Search,2022-09-21
+CUST-1546,Consumer,Paid Ads,2022-02-24
+CUST-1547,Corporate,Organic Search,2024-05-20
+CUST-1548,Consumer,Organic Search,2023-10-05
+CUST-1549,Consumer,Email Campaign,2024-03-10
+CUST-1550,Consumer,Referral,2024-02-17
+CUST-1551,Consumer,Organic Search,2023-04-03
+CUST-1552,Corporate,Organic Search,2024-05-27
+CUST-1553,Small Business,Organic Search,2022-06-11
+CUST-1554,Small Business,Social Media,2023-01-15
+CUST-1555,Consumer,Email Campaign,2022-03-28
+CUST-1556,Consumer,Organic Search,2022-02-24
+CUST-1557,Consumer,Organic Search,2023-04-21
+CUST-1558,Small Business,Social Media,2024-03-10
+CUST-1559,Consumer,Paid Ads,2022-06-27
+CUST-1560,Consumer,Organic Search,2023-01-26
+CUST-1561,Consumer,Paid Ads,2022-12-15
+CUST-1562,Corporate,Organic Search,2022-01-08
+CUST-1563,Consumer,Paid Ads,2024-04-12
+CUST-1564,Small Business,Social Media,2022-11-09
+CUST-1565,Consumer,Email Campaign,2024-01-29
+CUST-1566,Consumer,Paid Ads,2024-04-14
+CUST-1567,Consumer,Referral,2023-03-19
+CUST-1568,Consumer,Paid Ads,2024-02-06
+CUST-1569,Consumer,Social Media,2022-11-24
+CUST-1570,Consumer,Paid Ads,2022-02-23
+CUST-1571,Consumer,Email Campaign,2024-01-31
+CUST-1572,Corporate,Email Campaign,2022-08-27
+CUST-1573,Consumer,Organic Search,2022-08-17
+CUST-1574,Small Business,Referral,2023-08-02
+CUST-1575,Consumer,Email Campaign,2022-02-20
+CUST-1576,Small Business,Social Media,2023-09-01
+CUST-1577,Consumer,Organic Search,2023-08-27
+CUST-1578,Consumer,Email Campaign,2022-09-21
+CUST-1579,Consumer,Email Campaign,2023-02-22
+CUST-1580,Consumer,Organic Search,2024-03-13
+CUST-1581,Consumer,Referral,2022-04-06
+CUST-1582,Small Business,Organic Search,2022-03-29
+CUST-1583,Corporate,Organic Search,2022-03-19
+CUST-1584,Small Business,Paid Ads,2022-10-15
+CUST-1585,Small Business,Paid Ads,2022-04-30
+CUST-1586,Consumer,Social Media,2024-03-24
+CUST-1587,Consumer,Organic Search,2023-05-06
+CUST-1588,Consumer,Referral,2023-03-28
+CUST-1589,Consumer,Organic Search,2023-05-15
+CUST-1590,Consumer,Organic Search,2022-06-14
+CUST-1591,Consumer,Organic Search,2022-07-01
+CUST-1592,Consumer,Paid Ads,2023-04-14
+CUST-1593,Consumer,Referral,2024-06-28
+CUST-1594,Small Business,Social Media,2024-01-05
+CUST-1595,Small Business,Email Campaign,2024-04-02
+CUST-1596,Consumer,Organic Search,2022-01-07
+CUST-1597,Corporate,Paid Ads,2022-11-26
+CUST-1598,Corporate,Paid Ads,2024-02-14
+CUST-1599,Consumer,Paid Ads,2023-11-04
+CUST-1600,Consumer,Organic Search,2022-05-31
+CUST-1601,Consumer,Social Media,2022-03-26
+CUST-1602,Corporate,Paid Ads,2022-05-27
+CUST-1603,Small Business,Social Media,2023-09-16
+CUST-1604,Consumer,Paid Ads,2023-01-16
+CUST-1605,Consumer,Organic Search,2023-07-02
+CUST-1606,Consumer,Social Media,2022-10-12
+CUST-1607,Consumer,Organic Search,2023-12-01
+CUST-1608,Consumer,Email Campaign,2022-03-23
+CUST-1609,Small Business,Paid Ads,2023-05-29
+CUST-1610,Small Business,Organic Search,2024-06-15
+CUST-1611,Small Business,Referral,2024-03-25
+CUST-1612,Small Business,Paid Ads,2023-12-10
+CUST-1613,Small Business,Organic Search,2023-06-07
+CUST-1614,Consumer,Paid Ads,2024-01-16
+CUST-1615,Consumer,Organic Search,2023-01-21
+CUST-1616,Consumer,Email Campaign,2023-12-08
+CUST-1617,Small Business,Email Campaign,2023-04-16
+CUST-1618,Consumer,Referral,2022-04-29
+CUST-1619,Small Business,Paid Ads,2023-01-31
+CUST-1620,Consumer,Paid Ads,2023-06-16
+CUST-1621,Consumer,Social Media,2022-09-18
+CUST-1622,Consumer,Organic Search,2024-03-15
+CUST-1623,Consumer,Paid Ads,2022-09-13
+CUST-1624,Small Business,Paid Ads,2024-01-04
+CUST-1625,Small Business,Organic Search,2024-06-23
+CUST-1626,Consumer,Paid Ads,2022-08-14
+CUST-1627,Consumer,Email Campaign,2022-02-22
+CUST-1628,Consumer,Email Campaign,2024-05-16
+CUST-1629,Consumer,Organic Search,2023-05-15
+CUST-1630,Consumer,Organic Search,2023-05-21
+CUST-1631,Corporate,Organic Search,2024-05-03
+CUST-1632,Consumer,Email Campaign,2022-12-30
+CUST-1633,Consumer,Organic Search,2022-10-07
+CUST-1634,Consumer,Social Media,2023-08-16
+CUST-1635,Consumer,Organic Search,2023-12-15
+CUST-1636,Consumer,Paid Ads,2022-06-07
+CUST-1637,Consumer,Paid Ads,2023-09-24
+CUST-1638,Consumer,Social Media,2022-02-28
+CUST-1639,Consumer,Organic Search,2023-12-28
+CUST-1640,Consumer,Social Media,2022-05-08
+CUST-1641,Consumer,Organic Search,2024-01-06
+CUST-1642,Consumer,Social Media,2023-12-22
+CUST-1643,Corporate,Email Campaign,2024-05-31
+CUST-1644,Consumer,Organic Search,2022-04-25
+CUST-1645,Consumer,Email Campaign,2022-07-28
+CUST-1646,Consumer,Paid Ads,2023-06-10
+CUST-1647,Consumer,Organic Search,2023-06-05
+CUST-1648,Consumer,Paid Ads,2023-07-06
+CUST-1649,Small Business,Organic Search,2022-08-25
+CUST-1650,Small Business,Social Media,2022-10-08
+CUST-1651,Consumer,Social Media,2022-12-25
+CUST-1652,Consumer,Organic Search,2022-07-20
+CUST-1653,Consumer,Paid Ads,2024-01-28
+CUST-1654,Small Business,Email Campaign,2022-10-05
+CUST-1655,Consumer,Referral,2022-08-23
+CUST-1656,Consumer,Paid Ads,2023-05-09
+CUST-1657,Consumer,Referral,2022-01-04
+CUST-1658,Consumer,Paid Ads,2023-10-28
+CUST-1659,Consumer,Paid Ads,2023-03-18
+CUST-1660,Consumer,Email Campaign,2022-01-29
+CUST-1661,Consumer,Paid Ads,2022-04-19
+CUST-1662,Small Business,Paid Ads,2023-09-02
+CUST-1663,Consumer,Paid Ads,2023-12-28
+CUST-1664,Consumer,Email Campaign,2024-03-15
+CUST-1665,Corporate,Email Campaign,2022-03-16
+CUST-1666,Consumer,Paid Ads,2024-04-17
+CUST-1667,Consumer,Organic Search,2022-05-26
+CUST-1668,Consumer,Paid Ads,2022-05-08
+CUST-1669,Consumer,Paid Ads,2024-05-02
+CUST-1670,Small Business,Organic Search,2022-02-11
+CUST-1671,Consumer,Social Media,2022-12-22
+CUST-1672,Consumer,Paid Ads,2022-02-10
+CUST-1673,Consumer,Organic Search,2022-02-03
+CUST-1674,Consumer,Organic Search,2022-01-17
+CUST-1675,Small Business,Organic Search,2023-11-08
+CUST-1676,Consumer,Referral,2022-06-02
+CUST-1677,Consumer,Organic Search,2023-01-13
+CUST-1678,Small Business,Organic Search,2023-08-11
+CUST-1679,Consumer,Paid Ads,2023-08-22
+CUST-1680,Small Business,Organic Search,2023-09-21
+CUST-1681,Small Business,Organic Search,2024-05-23
+CUST-1682,Small Business,Organic Search,2022-12-08
+CUST-1683,Consumer,Paid Ads,2022-01-27
+CUST-1684,Consumer,Paid Ads,2024-04-04
+CUST-1685,Small Business,Paid Ads,2022-10-14
+CUST-1686,Consumer,Paid Ads,2023-10-08
+CUST-1687,Consumer,Referral,2024-01-01
+CUST-1688,Small Business,Paid Ads,2022-06-17
+CUST-1689,Corporate,Organic Search,2023-09-02
+CUST-1690,Consumer,Organic Search,2022-09-25
+CUST-1691,Consumer,Paid Ads,2024-01-19
+CUST-1692,Consumer,Social Media,2024-03-31
+CUST-1693,Small Business,Organic Search,2023-03-31
+CUST-1694,Corporate,Social Media,2024-06-24
+CUST-1695,Consumer,Organic Search,2023-11-16
+CUST-1696,Consumer,Paid Ads,2023-02-05
+CUST-1697,Small Business,Social Media,2023-04-21
+CUST-1698,Consumer,Organic Search,2023-12-03
+CUST-1699,Consumer,Paid Ads,2023-09-26
+CUST-1700,Corporate,Organic Search,2023-07-12
+CUST-1701,Consumer,Social Media,2023-07-30
+CUST-1702,Consumer,Organic Search,2022-05-10
+CUST-1703,Consumer,Email Campaign,2024-04-01
+CUST-1704,Consumer,Organic Search,2022-12-29
+CUST-1705,Small Business,Email Campaign,2023-12-06
+CUST-1706,Consumer,Paid Ads,2024-03-29
+CUST-1707,Corporate,Social Media,2023-11-24
+CUST-1708,Consumer,Organic Search,2022-10-19
+CUST-1709,Consumer,Email Campaign,2023-01-06
+CUST-1710,Consumer,Organic Search,2024-03-04
+CUST-1711,Consumer,Organic Search,2022-01-29
+CUST-1712,Consumer,Paid Ads,2022-05-29
+CUST-1713,Consumer,Organic Search,2024-02-18
+CUST-1714,Consumer,Organic Search,2022-10-23
+CUST-1715,Consumer,Referral,2022-01-11
+CUST-1716,Small Business,Referral,2023-05-27
+CUST-1717,Small Business,Paid Ads,2023-11-07
+CUST-1718,Small Business,Referral,2022-04-23
+CUST-1719,Consumer,Paid Ads,2022-07-06
+CUST-1720,Consumer,Organic Search,2024-03-17
+CUST-1721,Small Business,Social Media,2024-01-14
+CUST-1722,Consumer,Social Media,2022-08-15
+CUST-1723,Consumer,Referral,2022-11-06
+CUST-1724,Small Business,Organic Search,2022-04-08
+CUST-1725,Small Business,Social Media,2022-02-24
+CUST-1726,Consumer,Organic Search,2023-09-15
+CUST-1727,Consumer,Organic Search,2023-10-26
+CUST-1728,Small Business,Organic Search,2024-01-28
+CUST-1729,Consumer,Referral,2023-02-10
+CUST-1730,Small Business,Email Campaign,2022-03-10
+CUST-1731,Small Business,Social Media,2022-11-08
+CUST-1732,Small Business,Paid Ads,2022-10-16
+CUST-1733,Consumer,Organic Search,2024-02-01
+CUST-1734,Consumer,Organic Search,2023-07-02
+CUST-1735,Small Business,Organic Search,2024-01-21
+CUST-1736,Consumer,Paid Ads,2022-05-28
+CUST-1737,Small Business,Social Media,2023-04-12
+CUST-1738,Consumer,Paid Ads,2024-01-09
+CUST-1739,Consumer,Organic Search,2022-09-01
+CUST-1740,Corporate,Organic Search,2023-05-06
+CUST-1741,Small Business,Organic Search,2024-04-28
+CUST-1742,Corporate,Paid Ads,2023-05-22
+CUST-1743,Small Business,Referral,2022-12-31
+CUST-1744,Consumer,Social Media,2023-04-27
+CUST-1745,Small Business,Email Campaign,2022-07-20
+CUST-1746,Corporate,Paid Ads,2022-06-03
+CUST-1747,Consumer,Paid Ads,2023-03-26
+CUST-1748,Consumer,Organic Search,2023-05-16
+CUST-1749,Consumer,Email Campaign,2022-03-14
+CUST-1750,Consumer,Social Media,2023-12-14
+CUST-1751,Small Business,Organic Search,2022-10-23
+CUST-1752,Consumer,Paid Ads,2022-01-17
+CUST-1753,Consumer,Paid Ads,2023-10-03
+CUST-1754,Consumer,Paid Ads,2022-08-05
+CUST-1755,Consumer,Referral,2022-03-02
+CUST-1756,Consumer,Paid Ads,2023-09-08
+CUST-1757,Consumer,Paid Ads,2022-02-11
+CUST-1758,Corporate,Organic Search,2022-01-25
+CUST-1759,Consumer,Organic Search,2022-02-08
+CUST-1760,Consumer,Organic Search,2024-03-13
+CUST-1761,Consumer,Organic Search,2022-05-11
+CUST-1762,Small Business,Social Media,2023-05-13
+CUST-1763,Consumer,Social Media,2022-08-17
+CUST-1764,Small Business,Organic Search,2022-04-18
+CUST-1765,Small Business,Email Campaign,2022-06-21
+CUST-1766,Small Business,Organic Search,2023-03-11
+CUST-1767,Consumer,Organic Search,2023-04-23
+CUST-1768,Small Business,Organic Search,2022-04-12
+CUST-1769,Consumer,Paid Ads,2024-05-15
+CUST-1770,Corporate,Organic Search,2023-06-08
+CUST-1771,Consumer,Paid Ads,2022-10-02
+CUST-1772,Consumer,Paid Ads,2023-09-05
+CUST-1773,Consumer,Referral,2022-02-13
+CUST-1774,Consumer,Organic Search,2024-03-27
+CUST-1775,Small Business,Organic Search,2022-01-17
+CUST-1776,Consumer,Organic Search,2022-11-26
+CUST-1777,Consumer,Paid Ads,2023-07-23
+CUST-1778,Consumer,Organic Search,2024-04-02
+CUST-1779,Small Business,Email Campaign,2023-05-12
+CUST-1780,Small Business,Paid Ads,2024-03-25
+CUST-1781,Small Business,Paid Ads,2022-01-12
+CUST-1782,Small Business,Paid Ads,2022-11-14
+CUST-1783,Consumer,Organic Search,2023-08-15
+CUST-1784,Consumer,Organic Search,2022-08-04
+CUST-1785,Small Business,Organic Search,2022-12-05
+CUST-1786,Consumer,Paid Ads,2024-02-15
+CUST-1787,Consumer,Organic Search,2023-10-23
+CUST-1788,Consumer,Organic Search,2022-03-22
+CUST-1789,Consumer,Referral,2023-12-28
+CUST-1790,Consumer,Organic Search,2023-04-30
+CUST-1791,Small Business,Email Campaign,2023-01-09
+CUST-1792,Consumer,Social Media,2023-12-11
+CUST-1793,Consumer,Organic Search,2022-07-19
+CUST-1794,Consumer,Organic Search,2023-06-21
+CUST-1795,Small Business,Organic Search,2023-04-11
+CUST-1796,Consumer,Social Media,2022-03-30
+CUST-1797,Corporate,Social Media,2022-09-25
+CUST-1798,Corporate,Social Media,2023-10-17
+CUST-1799,Consumer,Referral,2023-07-25
+CUST-1800,Corporate,Social Media,2023-05-04
+CUST-1801,Corporate,Organic Search,2024-05-26
+CUST-1802,Small Business,Organic Search,2023-06-22
+CUST-1803,Small Business,Email Campaign,2022-02-16
+CUST-1804,Consumer,Organic Search,2022-10-15
+CUST-1805,Consumer,Organic Search,2024-02-17
+CUST-1806,Consumer,Social Media,2022-01-16
+CUST-1807,Consumer,Paid Ads,2023-12-12
+CUST-1808,Corporate,Referral,2023-02-05
+CUST-1809,Consumer,Social Media,2024-03-04
+CUST-1810,Small Business,Organic Search,2022-03-27
+CUST-1811,Small Business,Referral,2022-09-07
+CUST-1812,Small Business,Organic Search,2023-01-26
+CUST-1813,Corporate,Organic Search,2024-02-21
+CUST-1814,Consumer,Paid Ads,2022-12-01
+CUST-1815,Consumer,Organic Search,2023-09-21
+CUST-1816,Consumer,Paid Ads,2023-06-03
+CUST-1817,Consumer,Organic Search,2022-05-17
+CUST-1818,Consumer,Paid Ads,2024-06-01
+CUST-1819,Consumer,Paid Ads,2023-11-19
+CUST-1820,Small Business,Social Media,2024-04-19
+CUST-1821,Consumer,Email Campaign,2023-05-13
+CUST-1822,Consumer,Organic Search,2024-04-06
+CUST-1823,Small Business,Paid Ads,2023-12-28
+CUST-1824,Consumer,Paid Ads,2023-04-22
+CUST-1825,Consumer,Organic Search,2023-08-17
+CUST-1826,Small Business,Social Media,2022-08-11
+CUST-1827,Consumer,Social Media,2023-01-07
+CUST-1828,Small Business,Organic Search,2023-02-06
+CUST-1829,Consumer,Paid Ads,2023-03-19
+CUST-1830,Small Business,Organic Search,2023-05-05
+CUST-1831,Consumer,Paid Ads,2023-09-07
+CUST-1832,Consumer,Organic Search,2022-09-30
+CUST-1833,Consumer,Referral,2023-06-10
+CUST-1834,Small Business,Social Media,2022-06-08
+CUST-1835,Consumer,Paid Ads,2022-06-01
+CUST-1836,Consumer,Paid Ads,2023-09-12
+CUST-1837,Corporate,Email Campaign,2022-07-07
+CUST-1838,Small Business,Paid Ads,2024-03-23
+CUST-1839,Consumer,Organic Search,2022-04-08
+CUST-1840,Small Business,Paid Ads,2022-05-11
+CUST-1841,Consumer,Email Campaign,2024-03-15
+CUST-1842,Consumer,Social Media,2022-06-20
+CUST-1843,Consumer,Social Media,2022-07-02
+CUST-1844,Corporate,Email Campaign,2022-12-30
+CUST-1845,Corporate,Email Campaign,2022-02-08
+CUST-1846,Consumer,Email Campaign,2023-06-11
+CUST-1847,Consumer,Organic Search,2024-06-06
+CUST-1848,Consumer,Paid Ads,2023-05-12
+CUST-1849,Corporate,Social Media,2023-05-31
+CUST-1850,Corporate,Social Media,2022-12-15
+CUST-1851,Consumer,Paid Ads,2023-02-01
+CUST-1852,Small Business,Organic Search,2023-12-23
+CUST-1853,Small Business,Social Media,2022-06-10
+CUST-1854,Consumer,Social Media,2022-01-16
+CUST-1855,Consumer,Organic Search,2023-05-08
+CUST-1856,Consumer,Paid Ads,2023-03-02
+CUST-1857,Small Business,Organic Search,2022-04-18
+CUST-1858,Small Business,Organic Search,2024-06-12
+CUST-1859,Consumer,Organic Search,2023-03-26
+CUST-1860,Corporate,Paid Ads,2022-11-07
+CUST-1861,Consumer,Paid Ads,2024-01-09
+CUST-1862,Consumer,Paid Ads,2022-06-19
+CUST-1863,Small Business,Social Media,2023-06-30
+CUST-1864,Small Business,Email Campaign,2023-02-18
+CUST-1865,Consumer,Organic Search,2022-09-08
+CUST-1866,Consumer,Organic Search,2024-01-29
+CUST-1867,Consumer,Email Campaign,2024-02-20
+CUST-1868,Consumer,Organic Search,2022-05-21
+CUST-1869,Consumer,Referral,2022-10-01
+CUST-1870,Consumer,Email Campaign,2023-02-20
+CUST-1871,Small Business,Paid Ads,2023-08-31
+CUST-1872,Consumer,Referral,2024-01-09
+CUST-1873,Small Business,Organic Search,2024-06-09
+CUST-1874,Small Business,Organic Search,2022-02-08
+CUST-1875,Consumer,Social Media,2024-03-24
+CUST-1876,Consumer,Paid Ads,2022-01-29
+CUST-1877,Small Business,Referral,2023-04-22
+CUST-1878,Consumer,Organic Search,2022-11-14
+CUST-1879,Small Business,Paid Ads,2022-09-02
+CUST-1880,Small Business,Paid Ads,2024-01-18
+CUST-1881,Small Business,Social Media,2023-11-28
+CUST-1882,Corporate,Organic Search,2022-09-29
+CUST-1883,Consumer,Paid Ads,2023-03-16
+CUST-1884,Consumer,Email Campaign,2024-01-18
+CUST-1885,Consumer,Organic Search,2022-08-27
+CUST-1886,Consumer,Email Campaign,2023-01-12
+CUST-1887,Consumer,Paid Ads,2022-09-23
+CUST-1888,Consumer,Social Media,2022-12-25
+CUST-1889,Corporate,Social Media,2022-12-06
+CUST-1890,Consumer,Organic Search,2023-01-24
+CUST-1891,Consumer,Paid Ads,2023-07-31
+CUST-1892,Consumer,Email Campaign,2023-11-20
+CUST-1893,Consumer,Paid Ads,2022-01-03
+CUST-1894,Consumer,Referral,2023-03-05
+CUST-1895,Consumer,Paid Ads,2022-05-22
+CUST-1896,Consumer,Organic Search,2023-01-11
+CUST-1897,Consumer,Paid Ads,2023-11-01
+CUST-1898,Corporate,Referral,2022-11-20
+CUST-1899,Corporate,Organic Search,2022-05-26
+CUST-1900,Small Business,Email Campaign,2022-10-20
+CUST-1901,Consumer,Email Campaign,2023-10-27
+CUST-1902,Small Business,Paid Ads,2023-03-08
+CUST-1903,Corporate,Organic Search,2023-12-06
+CUST-1904,Consumer,Social Media,2023-08-08
+CUST-1905,Small Business,Organic Search,2023-02-03
+CUST-1906,Consumer,Social Media,2024-03-27
+CUST-1907,Small Business,Paid Ads,2024-06-07
+CUST-1908,Corporate,Paid Ads,2022-12-10
+CUST-1909,Consumer,Social Media,2022-05-20
+CUST-1910,Corporate,Paid Ads,2022-07-06
+CUST-1911,Consumer,Paid Ads,2024-03-15
+CUST-1912,Corporate,Paid Ads,2022-03-02
+CUST-1913,Consumer,Paid Ads,2023-01-15
+CUST-1914,Small Business,Paid Ads,2023-12-11
+CUST-1915,Consumer,Email Campaign,2024-03-17
+CUST-1916,Consumer,Paid Ads,2023-03-16
+CUST-1917,Consumer,Paid Ads,2022-11-15
+CUST-1918,Corporate,Social Media,2022-10-29
+CUST-1919,Small Business,Organic Search,2022-12-10
+CUST-1920,Small Business,Organic Search,2022-01-11
+CUST-1921,Corporate,Referral,2022-03-03
+CUST-1922,Consumer,Social Media,2024-04-24
+CUST-1923,Consumer,Paid Ads,2022-08-14
+CUST-1924,Consumer,Social Media,2022-06-02
+CUST-1925,Consumer,Organic Search,2023-12-12
+CUST-1926,Consumer,Paid Ads,2023-07-18
+CUST-1927,Consumer,Paid Ads,2024-02-11
+CUST-1928,Consumer,Paid Ads,2023-07-25
+CUST-1929,Consumer,Paid Ads,2023-08-07
+CUST-1930,Consumer,Organic Search,2023-10-22
+CUST-1931,Consumer,Organic Search,2024-05-10
+CUST-1932,Corporate,Referral,2023-07-29
+CUST-1933,Small Business,Paid Ads,2022-11-06
+CUST-1934,Corporate,Paid Ads,2024-06-03
+CUST-1935,Consumer,Organic Search,2022-08-31
+CUST-1936,Consumer,Organic Search,2023-05-08
+CUST-1937,Small Business,Social Media,2023-01-01
+CUST-1938,Consumer,Paid Ads,2022-11-26
+CUST-1939,Consumer,Paid Ads,2022-04-17
+CUST-1940,Consumer,Organic Search,2022-08-14
+CUST-1941,Consumer,Social Media,2024-04-04
+CUST-1942,Consumer,Organic Search,2022-08-06
+CUST-1943,Consumer,Organic Search,2024-01-23
+CUST-1944,Small Business,Paid Ads,2023-05-21
+CUST-1945,Consumer,Organic Search,2022-09-16
+CUST-1946,Consumer,Organic Search,2024-06-06
+CUST-1947,Small Business,Social Media,2024-02-13
+CUST-1948,Consumer,Social Media,2023-06-01
+CUST-1949,Consumer,Email Campaign,2024-02-12
+CUST-1950,Small Business,Paid Ads,2022-02-23
+CUST-1951,Consumer,Organic Search,2022-02-16
+CUST-1952,Consumer,Organic Search,2023-12-28
+CUST-1953,Consumer,Referral,2023-11-20
+CUST-1954,Consumer,Paid Ads,2023-06-05
+CUST-1955,Consumer,Social Media,2022-04-09
+CUST-1956,Small Business,Organic Search,2022-01-20
+CUST-1957,Consumer,Paid Ads,2024-06-08
+CUST-1958,Consumer,Organic Search,2024-01-23
+CUST-1959,Consumer,Paid Ads,2023-07-27
+CUST-1960,Consumer,Referral,2024-06-09
+CUST-1961,Consumer,Referral,2023-05-05
+CUST-1962,Consumer,Paid Ads,2023-02-23
+CUST-1963,Consumer,Paid Ads,2023-11-21
+CUST-1964,Consumer,Referral,2024-04-29
+CUST-1965,Consumer,Social Media,2022-03-03
+CUST-1966,Consumer,Organic Search,2022-05-25
+CUST-1967,Small Business,Paid Ads,2022-08-04
+CUST-1968,Consumer,Organic Search,2022-01-03
+CUST-1969,Consumer,Paid Ads,2022-06-09
+CUST-1970,Consumer,Paid Ads,2024-01-09
+CUST-1971,Small Business,Paid Ads,2024-02-20
+CUST-1972,Consumer,Paid Ads,2022-04-30
+CUST-1973,Small Business,Organic Search,2024-06-11
+CUST-1974,Small Business,Paid Ads,2022-03-30
+CUST-1975,Small Business,Email Campaign,2022-11-25
+CUST-1976,Consumer,Social Media,2023-08-03
+CUST-1977,Consumer,Organic Search,2024-06-28
+CUST-1978,Small Business,Referral,2022-12-23
+CUST-1979,Corporate,Email Campaign,2023-09-02
+CUST-1980,Corporate,Organic Search,2022-09-24
+CUST-1981,Consumer,Organic Search,2023-09-09
+CUST-1982,Consumer,Social Media,2022-11-19
+CUST-1983,Consumer,Email Campaign,2023-09-27
+CUST-1984,Small Business,Referral,2023-06-25
+CUST-1985,Consumer,Email Campaign,2023-10-11
+CUST-1986,Consumer,Paid Ads,2022-07-14
+CUST-1987,Small Business,Paid Ads,2024-01-08
+CUST-1988,Consumer,Organic Search,2022-11-28
+CUST-1989,Small Business,Organic Search,2022-06-19
+CUST-1990,Consumer,Paid Ads,2023-06-05
+CUST-1991,Consumer,Paid Ads,2023-04-08
+CUST-1992,Consumer,Paid Ads,2022-02-09
+CUST-1993,Small Business,Social Media,2023-06-21
+CUST-1994,Consumer,Organic Search,2022-09-18
+CUST-1995,Consumer,Paid Ads,2023-01-30
+CUST-1996,Corporate,Organic Search,2022-08-14
+CUST-1997,Consumer,Paid Ads,2022-05-04
+CUST-1998,Consumer,Social Media,2022-02-07
+CUST-1999,Consumer,Social Media,2022-11-24
+CUST-2000,Consumer,Referral,2022-09-08
+CUST-2001,Consumer,Organic Search,2024-06-19
+CUST-2002,Consumer,Paid Ads,2022-06-25
+CUST-2003,Consumer,Organic Search,2023-08-25
+CUST-2004,Consumer,Paid Ads,2023-03-30
+CUST-2005,Small Business,Email Campaign,2022-02-06
+CUST-2006,Consumer,Social Media,2022-11-12
+CUST-2007,Consumer,Email Campaign,2023-11-19
+CUST-2008,Consumer,Organic Search,2024-03-06
+CUST-2009,Consumer,Email Campaign,2023-08-16
+CUST-2010,Consumer,Organic Search,2022-04-24
+CUST-2011,Consumer,Email Campaign,2022-02-09
+CUST-2012,Small Business,Organic Search,2022-10-28
+CUST-2013,Consumer,Organic Search,2022-08-12
+CUST-2014,Corporate,Paid Ads,2022-11-14
+CUST-2015,Corporate,Referral,2022-12-15
+CUST-2016,Consumer,Organic Search,2022-04-25
+CUST-2017,Consumer,Paid Ads,2023-11-29
+CUST-2018,Consumer,Email Campaign,2022-11-19
+CUST-2019,Small Business,Paid Ads,2023-07-22
+CUST-2020,Consumer,Organic Search,2022-02-09
+CUST-2021,Consumer,Paid Ads,2024-05-15
+CUST-2022,Consumer,Paid Ads,2022-02-09
+CUST-2023,Small Business,Email Campaign,2024-05-08
+CUST-2024,Small Business,Social Media,2024-01-19
+CUST-2025,Consumer,Paid Ads,2022-10-16
+CUST-2026,Small Business,Referral,2022-09-19
+CUST-2027,Consumer,Paid Ads,2022-08-04
+CUST-2028,Consumer,Organic Search,2022-05-27
+CUST-2029,Small Business,Organic Search,2022-12-02
+CUST-2030,Consumer,Paid Ads,2022-06-17
+CUST-2031,Consumer,Organic Search,2022-04-02
+CUST-2032,Consumer,Referral,2022-12-19
+CUST-2033,Small Business,Social Media,2023-07-25
+CUST-2034,Small Business,Organic Search,2023-07-25
+CUST-2035,Consumer,Paid Ads,2024-03-26
+CUST-2036,Small Business,Social Media,2023-11-12
+CUST-2037,Consumer,Referral,2024-02-20
+CUST-2038,Consumer,Email Campaign,2022-12-29
+CUST-2039,Consumer,Paid Ads,2023-07-11
+CUST-2040,Consumer,Social Media,2022-12-11
+CUST-2041,Consumer,Paid Ads,2023-11-24
+CUST-2042,Corporate,Paid Ads,2022-06-19
+CUST-2043,Consumer,Organic Search,2022-12-22
+CUST-2044,Consumer,Organic Search,2022-07-10
+CUST-2045,Consumer,Paid Ads,2023-10-29
+CUST-2046,Consumer,Organic Search,2023-02-26
+CUST-2047,Corporate,Organic Search,2023-12-01
+CUST-2048,Consumer,Social Media,2022-01-07
+CUST-2049,Consumer,Organic Search,2022-05-13
+CUST-2050,Small Business,Paid Ads,2024-01-17
+CUST-2051,Consumer,Paid Ads,2023-07-11
+CUST-2052,Consumer,Referral,2024-04-05
+CUST-2053,Consumer,Paid Ads,2024-01-31
+CUST-2054,Consumer,Organic Search,2022-01-31
+CUST-2055,Corporate,Paid Ads,2023-06-19
+CUST-2056,Small Business,Email Campaign,2023-03-02
+CUST-2057,Consumer,Referral,2023-01-29
+CUST-2058,Small Business,Paid Ads,2023-11-03
+CUST-2059,Consumer,Organic Search,2022-12-29
+CUST-2060,Consumer,Email Campaign,2023-03-13
+CUST-2061,Consumer,Organic Search,2023-11-01
+CUST-2062,Consumer,Paid Ads,2023-07-05
+CUST-2063,Consumer,Paid Ads,2022-03-23
+CUST-2064,Consumer,Organic Search,2022-12-22
+CUST-2065,Corporate,Organic Search,2022-09-15
+CUST-2066,Consumer,Organic Search,2023-12-19
+CUST-2067,Consumer,Social Media,2023-08-12
+CUST-2068,Consumer,Referral,2023-06-08
+CUST-2069,Consumer,Organic Search,2022-10-22
+CUST-2070,Consumer,Email Campaign,2022-08-12
+CUST-2071,Consumer,Organic Search,2023-06-09
+CUST-2072,Small Business,Paid Ads,2022-02-15
+CUST-2073,Consumer,Organic Search,2023-10-29
+CUST-2074,Consumer,Referral,2022-04-23
+CUST-2075,Consumer,Social Media,2022-08-21
+CUST-2076,Consumer,Social Media,2022-01-17
+CUST-2077,Consumer,Email Campaign,2022-12-26
+CUST-2078,Small Business,Social Media,2022-08-11
+CUST-2079,Consumer,Referral,2024-05-15
+CUST-2080,Consumer,Social Media,2023-12-01
+CUST-2081,Consumer,Referral,2023-03-24
+CUST-2082,Consumer,Paid Ads,2024-05-05
+CUST-2083,Consumer,Organic Search,2022-12-31
+CUST-2084,Small Business,Paid Ads,2023-11-06
+CUST-2085,Consumer,Organic Search,2022-11-22
+CUST-2086,Small Business,Paid Ads,2023-04-12
+CUST-2087,Consumer,Paid Ads,2023-02-18
+CUST-2088,Small Business,Paid Ads,2023-03-31
+CUST-2089,Consumer,Organic Search,2023-08-09
+CUST-2090,Small Business,Organic Search,2022-08-21
+CUST-2091,Consumer,Paid Ads,2022-08-12
+CUST-2092,Corporate,Referral,2024-04-10
+CUST-2093,Consumer,Paid Ads,2023-02-16
+CUST-2094,Consumer,Paid Ads,2023-07-26
+CUST-2095,Consumer,Social Media,2022-12-01
+CUST-2096,Small Business,Paid Ads,2022-08-10
+CUST-2097,Consumer,Organic Search,2022-02-06
+CUST-2098,Small Business,Paid Ads,2022-10-05
+CUST-2099,Consumer,Organic Search,2022-07-15
+CUST-2100,Consumer,Referral,2024-05-13
+CUST-2101,Consumer,Organic Search,2023-04-29
+CUST-2102,Corporate,Paid Ads,2022-08-30
+CUST-2103,Small Business,Organic Search,2022-11-20
+CUST-2104,Corporate,Organic Search,2024-01-01
+CUST-2105,Consumer,Social Media,2022-07-11
+CUST-2106,Consumer,Organic Search,2022-01-17
+CUST-2107,Small Business,Organic Search,2023-06-08
+CUST-2108,Consumer,Paid Ads,2023-02-05
+CUST-2109,Small Business,Organic Search,2024-06-24
+CUST-2110,Corporate,Organic Search,2024-06-04
+CUST-2111,Corporate,Email Campaign,2023-12-06
+CUST-2112,Small Business,Social Media,2022-01-22
+CUST-2113,Consumer,Email Campaign,2023-04-19
+CUST-2114,Consumer,Email Campaign,2022-04-30
+CUST-2115,Corporate,Social Media,2022-07-29
+CUST-2116,Consumer,Organic Search,2022-11-02
+CUST-2117,Small Business,Social Media,2022-09-27
+CUST-2118,Small Business,Email Campaign,2023-12-05
+CUST-2119,Consumer,Social Media,2023-11-18
+CUST-2120,Corporate,Paid Ads,2022-10-12
+CUST-2121,Consumer,Organic Search,2023-12-17
+CUST-2122,Consumer,Email Campaign,2023-11-07
+CUST-2123,Consumer,Social Media,2024-02-02
+CUST-2124,Consumer,Referral,2022-08-15
+CUST-2125,Consumer,Organic Search,2023-01-16
+CUST-2126,Consumer,Organic Search,2023-04-05
+CUST-2127,Small Business,Organic Search,2022-01-07
+CUST-2128,Corporate,Social Media,2022-01-29
+CUST-2129,Consumer,Organic Search,2024-06-25
+CUST-2130,Consumer,Organic Search,2022-02-02
+CUST-2131,Corporate,Referral,2023-10-08
+CUST-2132,Consumer,Organic Search,2024-05-28
+CUST-2133,Consumer,Email Campaign,2022-03-20
+CUST-2134,Consumer,Paid Ads,2023-04-04
+CUST-2135,Consumer,Email Campaign,2023-07-24
+CUST-2136,Consumer,Paid Ads,2023-06-22
+CUST-2137,Corporate,Email Campaign,2023-04-27
+CUST-2138,Consumer,Referral,2023-03-06
+CUST-2139,Consumer,Organic Search,2024-01-08
+CUST-2140,Consumer,Organic Search,2022-10-12
+CUST-2141,Consumer,Organic Search,2023-05-31
+CUST-2142,Small Business,Social Media,2022-04-09
+CUST-2143,Small Business,Email Campaign,2023-02-01
+CUST-2144,Small Business,Paid Ads,2023-05-04
+CUST-2145,Consumer,Paid Ads,2022-02-08
+CUST-2146,Corporate,Organic Search,2022-09-28
+CUST-2147,Small Business,Email Campaign,2024-06-05
+CUST-2148,Small Business,Referral,2024-03-07
+CUST-2149,Consumer,Organic Search,2022-06-06
+CUST-2150,Consumer,Paid Ads,2022-03-16
+CUST-2151,Consumer,Organic Search,2024-06-02
+CUST-2152,Small Business,Paid Ads,2024-03-10
+CUST-2153,Consumer,Paid Ads,2022-05-10
+CUST-2154,Consumer,Organic Search,2023-11-18
+CUST-2155,Corporate,Paid Ads,2022-03-25
+CUST-2156,Corporate,Organic Search,2022-01-22
+CUST-2157,Corporate,Paid Ads,2023-04-04
+CUST-2158,Consumer,Paid Ads,2023-06-23
+CUST-2159,Small Business,Organic Search,2023-12-08
+CUST-2160,Consumer,Social Media,2024-04-28
+CUST-2161,Consumer,Social Media,2023-01-17
+CUST-2162,Consumer,Paid Ads,2024-01-18
+CUST-2163,Consumer,Organic Search,2023-03-16
+CUST-2164,Consumer,Social Media,2023-08-27
+CUST-2165,Small Business,Referral,2022-01-21
+CUST-2166,Consumer,Organic Search,2022-10-30
+CUST-2167,Small Business,Organic Search,2024-05-18
+CUST-2168,Consumer,Organic Search,2022-03-25
+CUST-2169,Consumer,Paid Ads,2024-02-13
+CUST-2170,Consumer,Organic Search,2023-10-21
+CUST-2171,Consumer,Paid Ads,2023-03-29
+CUST-2172,Consumer,Social Media,2023-01-22
+CUST-2173,Consumer,Paid Ads,2023-05-22
+CUST-2174,Consumer,Paid Ads,2022-09-14
+CUST-2175,Consumer,Paid Ads,2023-07-24
+CUST-2176,Consumer,Paid Ads,2024-06-10
+CUST-2177,Corporate,Organic Search,2023-06-11
+CUST-2178,Consumer,Organic Search,2022-06-11
+CUST-2179,Small Business,Email Campaign,2022-06-12
+CUST-2180,Small Business,Organic Search,2024-04-11
+CUST-2181,Corporate,Social Media,2024-03-03
+CUST-2182,Small Business,Referral,2024-03-02
+CUST-2183,Consumer,Organic Search,2023-06-08
+CUST-2184,Small Business,Paid Ads,2024-02-25
+CUST-2185,Corporate,Paid Ads,2022-09-28
+CUST-2186,Consumer,Email Campaign,2023-05-07
+CUST-2187,Consumer,Referral,2022-07-27
+CUST-2188,Consumer,Social Media,2023-06-23
+CUST-2189,Small Business,Organic Search,2023-08-07
+CUST-2190,Small Business,Social Media,2022-03-01
+CUST-2191,Consumer,Paid Ads,2023-03-06
+CUST-2192,Consumer,Paid Ads,2023-10-19
+CUST-2193,Consumer,Organic Search,2023-08-28
+CUST-2194,Consumer,Organic Search,2022-11-05
+CUST-2195,Corporate,Social Media,2023-06-04
+CUST-2196,Consumer,Paid Ads,2023-08-14
+CUST-2197,Consumer,Organic Search,2022-01-27
+CUST-2198,Consumer,Paid Ads,2023-11-17
+CUST-2199,Small Business,Email Campaign,2023-07-16
+CUST-2200,Consumer,Social Media,2022-07-18
+CUST-2201,Small Business,Organic Search,2023-01-22
+CUST-2202,Consumer,Organic Search,2022-12-15
+CUST-2203,Consumer,Organic Search,2023-11-24
+CUST-2204,Consumer,Referral,2023-06-20
+CUST-2205,Consumer,Paid Ads,2024-04-07
+CUST-2206,Consumer,Paid Ads,2023-01-13
+CUST-2207,Corporate,Paid Ads,2024-06-17
+CUST-2208,Small Business,Paid Ads,2023-07-12
+CUST-2209,Corporate,Email Campaign,2023-06-11
+CUST-2210,Consumer,Paid Ads,2022-06-02
+CUST-2211,Corporate,Organic Search,2024-01-04
+CUST-2212,Consumer,Organic Search,2022-07-25
+CUST-2213,Consumer,Paid Ads,2023-03-31
+CUST-2214,Consumer,Referral,2022-09-30
+CUST-2215,Consumer,Organic Search,2024-06-12
+CUST-2216,Small Business,Email Campaign,2022-08-24
+CUST-2217,Consumer,Social Media,2024-05-01
+CUST-2218,Consumer,Organic Search,2024-01-10
+CUST-2219,Consumer,Organic Search,2023-06-05
+CUST-2220,Consumer,Organic Search,2023-11-09
+CUST-2221,Consumer,Social Media,2024-04-10
+CUST-2222,Consumer,Organic Search,2023-12-27
+CUST-2223,Small Business,Paid Ads,2023-05-16
+CUST-2224,Small Business,Paid Ads,2022-04-27
+CUST-2225,Consumer,Social Media,2023-01-21
+CUST-2226,Consumer,Organic Search,2022-12-10
+CUST-2227,Consumer,Paid Ads,2023-08-07
+CUST-2228,Small Business,Paid Ads,2023-01-30
+CUST-2229,Consumer,Paid Ads,2022-03-05
+CUST-2230,Consumer,Email Campaign,2023-12-18
+CUST-2231,Consumer,Organic Search,2023-12-22
+CUST-2232,Consumer,Email Campaign,2022-03-13
+CUST-2233,Consumer,Social Media,2024-02-28
+CUST-2234,Small Business,Paid Ads,2022-10-01
+CUST-2235,Consumer,Social Media,2022-11-16
+CUST-2236,Consumer,Paid Ads,2022-12-04
+CUST-2237,Small Business,Organic Search,2023-01-01
+CUST-2238,Small Business,Social Media,2023-05-10
+CUST-2239,Consumer,Paid Ads,2023-08-30
+CUST-2240,Consumer,Social Media,2022-06-15
+CUST-2241,Consumer,Organic Search,2023-06-28
+CUST-2242,Corporate,Email Campaign,2022-01-11
+CUST-2243,Consumer,Paid Ads,2022-10-28
+CUST-2244,Corporate,Organic Search,2023-12-30
+CUST-2245,Small Business,Paid Ads,2024-03-11
+CUST-2246,Consumer,Social Media,2022-04-12
+CUST-2247,Consumer,Social Media,2023-03-01
+CUST-2248,Consumer,Paid Ads,2023-01-27
+CUST-2249,Consumer,Email Campaign,2024-02-18
+CUST-2250,Consumer,Organic Search,2022-08-02
+CUST-2251,Small Business,Paid Ads,2023-11-22
+CUST-2252,Corporate,Email Campaign,2022-03-29
+CUST-2253,Consumer,Email Campaign,2023-07-07
+CUST-2254,Small Business,Social Media,2023-02-05
+CUST-2255,Consumer,Email Campaign,2023-08-11
+CUST-2256,Consumer,Organic Search,2024-06-07
+CUST-2257,Consumer,Email Campaign,2022-02-15
+CUST-2258,Consumer,Organic Search,2023-11-03
+CUST-2259,Corporate,Organic Search,2023-04-08
+CUST-2260,Small Business,Organic Search,2023-08-15
+CUST-2261,Consumer,Paid Ads,2022-11-06
+CUST-2262,Consumer,Organic Search,2022-03-27
+CUST-2263,Consumer,Organic Search,2022-04-02
+CUST-2264,Consumer,Organic Search,2023-10-22
+CUST-2265,Small Business,Organic Search,2023-11-04
+CUST-2266,Small Business,Paid Ads,2023-12-15
+CUST-2267,Consumer,Paid Ads,2022-08-30
+CUST-2268,Consumer,Organic Search,2024-05-14
+CUST-2269,Consumer,Social Media,2022-01-02
+CUST-2270,Consumer,Email Campaign,2022-08-13
+CUST-2271,Consumer,Social Media,2024-03-11
+CUST-2272,Consumer,Organic Search,2024-01-15
+CUST-2273,Small Business,Social Media,2023-08-12
+CUST-2274,Small Business,Organic Search,2022-04-26
+CUST-2275,Consumer,Organic Search,2023-10-28
+CUST-2276,Consumer,Organic Search,2022-04-13
+CUST-2277,Consumer,Email Campaign,2022-07-13
+CUST-2278,Consumer,Organic Search,2022-06-15
+CUST-2279,Small Business,Organic Search,2024-05-20
+CUST-2280,Consumer,Organic Search,2022-03-31
+CUST-2281,Consumer,Email Campaign,2023-11-17
+CUST-2282,Consumer,Social Media,2022-05-02
+CUST-2283,Small Business,Organic Search,2022-05-23
+CUST-2284,Consumer,Paid Ads,2022-04-16
+CUST-2285,Consumer,Paid Ads,2024-06-05
+CUST-2286,Consumer,Social Media,2023-03-04
+CUST-2287,Small Business,Organic Search,2022-11-01
+CUST-2288,Corporate,Email Campaign,2024-05-21
+CUST-2289,Consumer,Organic Search,2022-11-13
+CUST-2290,Corporate,Social Media,2023-09-27
+CUST-2291,Corporate,Organic Search,2024-06-20
+CUST-2292,Corporate,Paid Ads,2022-01-09
+CUST-2293,Consumer,Paid Ads,2024-02-13
+CUST-2294,Consumer,Paid Ads,2022-03-14
+CUST-2295,Consumer,Organic Search,2022-12-25
+CUST-2296,Small Business,Social Media,2022-08-11
+CUST-2297,Consumer,Organic Search,2023-02-20
+CUST-2298,Small Business,Social Media,2023-07-07
+CUST-2299,Consumer,Email Campaign,2023-01-05
+CUST-2300,Small Business,Paid Ads,2023-12-17
+CUST-2301,Small Business,Social Media,2022-09-21
+CUST-2302,Consumer,Social Media,2024-04-19
+CUST-2303,Small Business,Paid Ads,2023-11-21
+CUST-2304,Consumer,Email Campaign,2024-05-09
+CUST-2305,Small Business,Organic Search,2022-11-14
+CUST-2306,Consumer,Paid Ads,2022-03-25
+CUST-2307,Consumer,Social Media,2022-11-14
+CUST-2308,Corporate,Paid Ads,2022-04-21
+CUST-2309,Consumer,Organic Search,2022-09-08
+CUST-2310,Small Business,Paid Ads,2023-01-18
+CUST-2311,Consumer,Email Campaign,2022-01-07
+CUST-2312,Consumer,Referral,2023-04-04
+CUST-2313,Consumer,Paid Ads,2022-03-25
+CUST-2314,Consumer,Social Media,2022-07-27
+CUST-2315,Consumer,Email Campaign,2024-06-18
+CUST-2316,Consumer,Organic Search,2023-01-25
+CUST-2317,Consumer,Organic Search,2022-11-10
+CUST-2318,Consumer,Social Media,2022-01-22
+CUST-2319,Corporate,Email Campaign,2023-02-14
+CUST-2320,Corporate,Email Campaign,2024-06-13
+CUST-2321,Consumer,Paid Ads,2023-05-30
+CUST-2322,Small Business,Organic Search,2022-05-07
+CUST-2323,Consumer,Paid Ads,2024-03-19
+CUST-2324,Small Business,Organic Search,2023-12-01
+CUST-2325,Small Business,Organic Search,2024-05-23
+CUST-2326,Corporate,Social Media,2022-01-14
+CUST-2327,Consumer,Organic Search,2022-01-12
+CUST-2328,Small Business,Email Campaign,2022-03-28
+CUST-2329,Consumer,Paid Ads,2023-06-08
+CUST-2330,Corporate,Paid Ads,2024-06-27
+CUST-2331,Consumer,Organic Search,2023-06-21
+CUST-2332,Consumer,Organic Search,2022-10-28
+CUST-2333,Small Business,Organic Search,2022-08-31
+CUST-2334,Small Business,Referral,2022-05-02
+CUST-2335,Consumer,Email Campaign,2022-05-27
+CUST-2336,Corporate,Paid Ads,2023-07-21
+CUST-2337,Consumer,Organic Search,2024-01-20
+CUST-2338,Consumer,Referral,2022-12-22
+CUST-2339,Consumer,Organic Search,2023-11-16
+CUST-2340,Consumer,Organic Search,2024-06-22
+CUST-2341,Consumer,Paid Ads,2024-01-03
+CUST-2342,Consumer,Referral,2023-09-23
+CUST-2343,Consumer,Organic Search,2022-11-05
+CUST-2344,Consumer,Organic Search,2023-11-26
+CUST-2345,Consumer,Referral,2022-10-15
+CUST-2346,Small Business,Organic Search,2022-11-03
+CUST-2347,Corporate,Organic Search,2024-03-22
+CUST-2348,Consumer,Paid Ads,2023-08-17
+CUST-2349,Consumer,Email Campaign,2023-12-24
+CUST-2350,Consumer,Paid Ads,2023-10-24
+CUST-2351,Consumer,Referral,2023-07-03
+CUST-2352,Small Business,Social Media,2022-12-18
+CUST-2353,Consumer,Organic Search,2022-11-08
+CUST-2354,Consumer,Referral,2024-05-22
+CUST-2355,Consumer,Paid Ads,2022-02-28
+CUST-2356,Consumer,Organic Search,2023-10-05
+CUST-2357,Small Business,Paid Ads,2023-12-15
+CUST-2358,Corporate,Organic Search,2024-01-25
+CUST-2359,Consumer,Organic Search,2022-02-04
+CUST-2360,Consumer,Organic Search,2023-03-21
+CUST-2361,Small Business,Paid Ads,2022-04-03
+CUST-2362,Corporate,Email Campaign,2022-07-26
+CUST-2363,Consumer,Paid Ads,2022-12-19
+CUST-2364,Consumer,Referral,2024-06-21
+CUST-2365,Consumer,Organic Search,2022-11-28
+CUST-2366,Consumer,Organic Search,2024-03-27
+CUST-2367,Consumer,Organic Search,2024-05-11
+CUST-2368,Consumer,Organic Search,2023-12-26
+CUST-2369,Consumer,Organic Search,2022-06-08
+CUST-2370,Consumer,Social Media,2022-01-24
+CUST-2371,Small Business,Email Campaign,2023-02-08
+CUST-2372,Consumer,Referral,2024-03-15
+CUST-2373,Consumer,Organic Search,2023-05-31
+CUST-2374,Consumer,Email Campaign,2024-01-02
+CUST-2375,Consumer,Organic Search,2022-12-30
+CUST-2376,Corporate,Organic Search,2023-01-17
+CUST-2377,Consumer,Email Campaign,2023-06-16
+CUST-2378,Consumer,Social Media,2022-06-01
+CUST-2379,Small Business,Organic Search,2023-07-16
+CUST-2380,Consumer,Paid Ads,2023-11-20
+CUST-2381,Corporate,Organic Search,2023-08-31
+CUST-2382,Consumer,Social Media,2023-09-09
+CUST-2383,Consumer,Paid Ads,2023-02-24
+CUST-2384,Consumer,Referral,2022-09-07
+CUST-2385,Consumer,Organic Search,2022-04-27
+CUST-2386,Small Business,Paid Ads,2024-05-15
+CUST-2387,Small Business,Paid Ads,2023-05-27
+CUST-2388,Consumer,Paid Ads,2024-01-10
+CUST-2389,Consumer,Organic Search,2023-08-01
+CUST-2390,Small Business,Social Media,2022-12-01
+CUST-2391,Corporate,Email Campaign,2023-02-22
+CUST-2392,Consumer,Referral,2024-02-13
+CUST-2393,Consumer,Email Campaign,2022-10-22
+CUST-2394,Consumer,Email Campaign,2024-01-25
+CUST-2395,Small Business,Paid Ads,2023-01-06
+CUST-2396,Consumer,Email Campaign,2022-07-05
+CUST-2397,Consumer,Organic Search,2022-09-03
+CUST-2398,Small Business,Paid Ads,2023-09-29
+CUST-2399,Consumer,Organic Search,2022-09-25
+CUST-2400,Consumer,Paid Ads,2023-10-05
+CUST-2401,Consumer,Organic Search,2022-08-25
+CUST-2402,Consumer,Referral,2023-06-14
+CUST-2403,Consumer,Organic Search,2023-07-06
+CUST-2404,Consumer,Organic Search,2022-01-21
+CUST-2405,Consumer,Paid Ads,2024-06-29
+CUST-2406,Consumer,Organic Search,2024-01-07
+CUST-2407,Small Business,Organic Search,2024-05-16
+CUST-2408,Small Business,Organic Search,2024-03-04
+CUST-2409,Consumer,Paid Ads,2023-06-04
+CUST-2410,Consumer,Paid Ads,2022-04-10
+CUST-2411,Consumer,Social Media,2024-01-22
+CUST-2412,Consumer,Social Media,2023-04-23
+CUST-2413,Consumer,Paid Ads,2023-08-22
+CUST-2414,Small Business,Organic Search,2022-10-25
+CUST-2415,Consumer,Organic Search,2023-06-10
+CUST-2416,Consumer,Social Media,2022-11-30
+CUST-2417,Consumer,Organic Search,2022-01-02
+CUST-2418,Small Business,Organic Search,2023-01-10
+CUST-2419,Consumer,Social Media,2022-10-20
+CUST-2420,Consumer,Paid Ads,2024-04-16
+CUST-2421,Consumer,Organic Search,2023-07-07
+CUST-2422,Corporate,Organic Search,2022-11-14
+CUST-2423,Corporate,Referral,2023-05-17
+CUST-2424,Consumer,Email Campaign,2024-04-07
+CUST-2425,Consumer,Social Media,2023-01-16
+CUST-2426,Consumer,Paid Ads,2023-09-15
+CUST-2427,Consumer,Paid Ads,2022-01-14
+CUST-2428,Small Business,Referral,2023-05-19
+CUST-2429,Small Business,Referral,2022-08-19
+CUST-2430,Small Business,Organic Search,2022-03-25
+CUST-2431,Small Business,Email Campaign,2022-05-10
+CUST-2432,Consumer,Organic Search,2024-01-13
+CUST-2433,Consumer,Organic Search,2024-04-17
+CUST-2434,Small Business,Social Media,2022-05-25
+CUST-2435,Consumer,Paid Ads,2024-06-09
+CUST-2436,Small Business,Referral,2024-05-06
+CUST-2437,Consumer,Organic Search,2022-01-28
+CUST-2438,Consumer,Paid Ads,2022-03-07
+CUST-2439,Corporate,Email Campaign,2022-06-12
+CUST-2440,Consumer,Email Campaign,2022-08-17
+CUST-2441,Corporate,Organic Search,2022-09-18
+CUST-2442,Corporate,Paid Ads,2023-03-25
+CUST-2443,Small Business,Paid Ads,2023-02-28
+CUST-2444,Small Business,Organic Search,2023-04-05
+CUST-2445,Consumer,Referral,2023-11-07
+CUST-2446,Small Business,Email Campaign,2022-10-28
+CUST-2447,Consumer,Organic Search,2022-10-30
+CUST-2448,Consumer,Organic Search,2022-10-14
+CUST-2449,Consumer,Organic Search,2023-01-30
+CUST-2450,Consumer,Email Campaign,2022-01-10
+CUST-2451,Consumer,Organic Search,2023-12-08
+CUST-2452,Consumer,Paid Ads,2023-09-22
+CUST-2453,Consumer,Paid Ads,2022-09-27
+CUST-2454,Small Business,Paid Ads,2023-08-15
+CUST-2455,Consumer,Organic Search,2023-08-28
+CUST-2456,Corporate,Organic Search,2024-02-17
+CUST-2457,Small Business,Referral,2024-04-23
+CUST-2458,Small Business,Email Campaign,2024-05-11
+CUST-2459,Consumer,Social Media,2022-12-27
+CUST-2460,Small Business,Organic Search,2022-09-14
+CUST-2461,Consumer,Organic Search,2022-05-13
+CUST-2462,Small Business,Paid Ads,2022-10-03
+CUST-2463,Consumer,Organic Search,2024-02-15
+CUST-2464,Corporate,Email Campaign,2023-11-14
+CUST-2465,Corporate,Social Media,2023-05-28
+CUST-2466,Consumer,Organic Search,2022-11-09
+CUST-2467,Consumer,Email Campaign,2023-07-30
+CUST-2468,Small Business,Referral,2024-06-04
+CUST-2469,Consumer,Organic Search,2022-10-11
+CUST-2470,Small Business,Paid Ads,2022-05-01
+CUST-2471,Consumer,Organic Search,2022-04-17
+CUST-2472,Consumer,Paid Ads,2023-11-18
+CUST-2473,Corporate,Organic Search,2022-07-23
+CUST-2474,Small Business,Paid Ads,2022-06-14
+CUST-2475,Small Business,Referral,2022-11-01
+CUST-2476,Consumer,Paid Ads,2023-05-12
+CUST-2477,Small Business,Organic Search,2023-09-24
+CUST-2478,Consumer,Paid Ads,2023-07-10
+CUST-2479,Consumer,Organic Search,2024-04-03
+CUST-2480,Small Business,Email Campaign,2022-06-05
+CUST-2481,Consumer,Paid Ads,2023-01-02
+CUST-2482,Consumer,Organic Search,2023-12-20
+CUST-2483,Consumer,Organic Search,2024-06-20
+CUST-2484,Small Business,Social Media,2023-09-12
+CUST-2485,Consumer,Organic Search,2022-09-08
+CUST-2486,Small Business,Social Media,2024-05-31
+CUST-2487,Consumer,Organic Search,2022-11-30
+CUST-2488,Consumer,Organic Search,2023-10-04
+CUST-2489,Small Business,Paid Ads,2023-05-26
+CUST-2490,Consumer,Referral,2022-10-20
+CUST-2491,Consumer,Referral,2022-01-20
+CUST-2492,Consumer,Organic Search,2022-10-09
+CUST-2493,Consumer,Paid Ads,2024-03-07
+CUST-2494,Small Business,Organic Search,2022-01-01
+CUST-2495,Consumer,Paid Ads,2022-04-29
+CUST-2496,Small Business,Paid Ads,2022-02-04
+CUST-2497,Consumer,Email Campaign,2022-07-17
+CUST-2498,Consumer,Referral,2023-04-30
+CUST-2499,Corporate,Paid Ads,2024-01-27
+CUST-2500,Consumer,Paid Ads,2022-02-28
+CUST-2501,Consumer,Email Campaign,2024-04-16
+CUST-2502,Consumer,Email Campaign,2022-06-10
+CUST-2503,Consumer,Organic Search,2023-11-22
+CUST-2504,Consumer,Organic Search,2022-07-25
+CUST-2505,Consumer,Paid Ads,2022-01-12
+CUST-2506,Consumer,Organic Search,2023-05-05
+CUST-2507,Consumer,Organic Search,2022-10-03
+CUST-2508,Consumer,Organic Search,2023-11-24
+CUST-2509,Consumer,Social Media,2022-08-30
+CUST-2510,Consumer,Organic Search,2022-08-04
+CUST-2511,Small Business,Organic Search,2022-09-08
+CUST-2512,Corporate,Organic Search,2024-03-21
+CUST-2513,Consumer,Email Campaign,2022-05-06
+CUST-2514,Corporate,Email Campaign,2022-08-05
+CUST-2515,Consumer,Paid Ads,2022-11-02
+CUST-2516,Consumer,Paid Ads,2024-03-07
+CUST-2517,Consumer,Referral,2022-07-04
+CUST-2518,Consumer,Organic Search,2022-02-08
+CUST-2519,Consumer,Organic Search,2022-08-11
+CUST-2520,Consumer,Organic Search,2022-07-03
+CUST-2521,Consumer,Organic Search,2023-05-10
+CUST-2522,Corporate,Paid Ads,2023-03-03
+CUST-2523,Consumer,Email Campaign,2022-06-27
+CUST-2524,Consumer,Paid Ads,2023-03-04
+CUST-2525,Small Business,Paid Ads,2022-10-21
+CUST-2526,Consumer,Referral,2024-05-01
+CUST-2527,Consumer,Organic Search,2022-05-31
+CUST-2528,Small Business,Organic Search,2023-01-19
+CUST-2529,Corporate,Paid Ads,2023-09-30
+CUST-2530,Small Business,Paid Ads,2024-03-23
+CUST-2531,Small Business,Organic Search,2022-11-04
+CUST-2532,Small Business,Paid Ads,2022-12-02
+CUST-2533,Corporate,Social Media,2024-01-16
+CUST-2534,Consumer,Social Media,2024-06-10
+CUST-2535,Consumer,Social Media,2023-01-10
+CUST-2536,Consumer,Organic Search,2022-01-08
+CUST-2537,Consumer,Organic Search,2022-12-07
+CUST-2538,Small Business,Paid Ads,2022-05-09
+CUST-2539,Consumer,Organic Search,2024-02-15
+CUST-2540,Consumer,Referral,2023-10-31
+CUST-2541,Consumer,Paid Ads,2022-12-18
+CUST-2542,Small Business,Organic Search,2022-12-24
+CUST-2543,Consumer,Social Media,2023-06-01
+CUST-2544,Small Business,Paid Ads,2023-05-10
+CUST-2545,Consumer,Organic Search,2022-03-27
+CUST-2546,Consumer,Email Campaign,2022-06-24
+CUST-2547,Consumer,Email Campaign,2024-03-12
+CUST-2548,Consumer,Social Media,2022-07-12
+CUST-2549,Small Business,Organic Search,2022-11-07
+CUST-2550,Corporate,Paid Ads,2022-04-29
+CUST-2551,Consumer,Social Media,2022-08-06
+CUST-2552,Consumer,Organic Search,2023-03-03
+CUST-2553,Consumer,Organic Search,2023-02-18
+CUST-2554,Small Business,Email Campaign,2022-04-24
+CUST-2555,Small Business,Organic Search,2022-05-25
+CUST-2556,Consumer,Social Media,2023-06-22
+CUST-2557,Consumer,Paid Ads,2023-10-10
+CUST-2558,Small Business,Paid Ads,2022-10-30
+CUST-2559,Consumer,Organic Search,2024-01-14
+CUST-2560,Consumer,Email Campaign,2024-05-30
+CUST-2561,Consumer,Paid Ads,2023-08-11
+CUST-2562,Consumer,Paid Ads,2024-04-19
+CUST-2563,Small Business,Social Media,2022-12-11
+CUST-2564,Corporate,Social Media,2024-03-24
+CUST-2565,Consumer,Referral,2024-03-11
+CUST-2566,Consumer,Paid Ads,2022-01-01
+CUST-2567,Consumer,Paid Ads,2022-05-27
+CUST-2568,Consumer,Referral,2022-10-14
+CUST-2569,Consumer,Social Media,2023-10-16
+CUST-2570,Consumer,Organic Search,2022-02-22
+CUST-2571,Consumer,Organic Search,2022-10-31
+CUST-2572,Consumer,Email Campaign,2022-03-10
+CUST-2573,Consumer,Paid Ads,2022-12-27
+CUST-2574,Consumer,Social Media,2023-08-25
+CUST-2575,Consumer,Paid Ads,2022-08-08
+CUST-2576,Consumer,Organic Search,2023-12-05
+CUST-2577,Corporate,Paid Ads,2023-07-29
+CUST-2578,Consumer,Organic Search,2023-08-08
+CUST-2579,Consumer,Paid Ads,2022-06-10
+CUST-2580,Small Business,Paid Ads,2023-11-12
+CUST-2581,Corporate,Paid Ads,2022-03-30
+CUST-2582,Consumer,Social Media,2023-11-19
+CUST-2583,Small Business,Email Campaign,2024-02-20
+CUST-2584,Consumer,Social Media,2023-08-08
+CUST-2585,Consumer,Organic Search,2024-01-27
+CUST-2586,Consumer,Organic Search,2023-08-12
+CUST-2587,Small Business,Paid Ads,2022-06-08
+CUST-2588,Small Business,Referral,2023-05-04
+CUST-2589,Consumer,Email Campaign,2022-11-20
+CUST-2590,Consumer,Email Campaign,2023-09-02
+CUST-2591,Consumer,Organic Search,2023-01-16
+CUST-2592,Consumer,Paid Ads,2022-04-12
+CUST-2593,Consumer,Paid Ads,2023-05-09
+CUST-2594,Small Business,Organic Search,2023-10-06
+CUST-2595,Small Business,Organic Search,2023-09-06
+CUST-2596,Small Business,Referral,2022-01-19
+CUST-2597,Small Business,Organic Search,2023-03-30
+CUST-2598,Consumer,Organic Search,2023-04-27
+CUST-2599,Small Business,Organic Search,2023-08-17
+CUST-2600,Consumer,Referral,2023-02-01
+CUST-2601,Consumer,Paid Ads,2022-10-06
+CUST-2602,Consumer,Social Media,2024-04-30
+CUST-2603,Consumer,Email Campaign,2022-12-31
+CUST-2604,Consumer,Organic Search,2022-11-27
+CUST-2605,Consumer,Paid Ads,2023-10-03
+CUST-2606,Small Business,Organic Search,2022-12-10
+CUST-2607,Consumer,Organic Search,2024-04-01
+CUST-2608,Consumer,Email Campaign,2023-03-31
+CUST-2609,Corporate,Social Media,2023-08-24
+CUST-2610,Consumer,Paid Ads,2023-12-26
+CUST-2611,Consumer,Paid Ads,2023-10-17
+CUST-2612,Consumer,Paid Ads,2022-03-06
+CUST-2613,Consumer,Organic Search,2022-03-17
+CUST-2614,Consumer,Organic Search,2023-12-12
+CUST-2615,Consumer,Organic Search,2022-05-23
+CUST-2616,Consumer,Organic Search,2024-04-07
+CUST-2617,Consumer,Email Campaign,2023-08-28
+CUST-2618,Consumer,Organic Search,2023-04-18
+CUST-2619,Consumer,Organic Search,2023-02-21
+CUST-2620,Consumer,Paid Ads,2022-11-01
+CUST-2621,Small Business,Email Campaign,2024-01-06
+CUST-2622,Consumer,Organic Search,2023-05-12
+CUST-2623,Consumer,Organic Search,2022-10-18
+CUST-2624,Small Business,Paid Ads,2022-04-12
+CUST-2625,Consumer,Social Media,2022-09-24
+CUST-2626,Consumer,Paid Ads,2024-05-16
+CUST-2627,Consumer,Email Campaign,2023-09-14
+CUST-2628,Corporate,Referral,2024-04-21
+CUST-2629,Small Business,Social Media,2024-02-16
+CUST-2630,Consumer,Paid Ads,2022-01-03
+CUST-2631,Small Business,Paid Ads,2022-03-26
+CUST-2632,Consumer,Organic Search,2024-03-04
+CUST-2633,Consumer,Referral,2022-11-24
+CUST-2634,Consumer,Paid Ads,2024-03-26
+CUST-2635,Consumer,Organic Search,2023-03-26
+CUST-2636,Small Business,Social Media,2023-03-30
+CUST-2637,Consumer,Organic Search,2023-09-21
+CUST-2638,Consumer,Paid Ads,2022-08-09
+CUST-2639,Corporate,Paid Ads,2022-06-03
+CUST-2640,Consumer,Paid Ads,2023-10-27
+CUST-2641,Consumer,Email Campaign,2022-01-12
+CUST-2642,Consumer,Organic Search,2022-05-13
+CUST-2643,Small Business,Paid Ads,2022-10-31
+CUST-2644,Small Business,Paid Ads,2022-10-20
+CUST-2645,Consumer,Social Media,2022-10-27
+CUST-2646,Small Business,Social Media,2024-01-10
+CUST-2647,Consumer,Paid Ads,2024-02-22
+CUST-2648,Small Business,Social Media,2022-02-12
+CUST-2649,Consumer,Organic Search,2022-12-09
+CUST-2650,Consumer,Referral,2022-11-22
+CUST-2651,Corporate,Paid Ads,2024-03-24
+CUST-2652,Consumer,Social Media,2023-05-13
+CUST-2653,Consumer,Organic Search,2022-12-30
+CUST-2654,Consumer,Organic Search,2024-06-09
+CUST-2655,Corporate,Paid Ads,2023-03-03
+CUST-2656,Consumer,Email Campaign,2022-01-21
+CUST-2657,Consumer,Paid Ads,2023-02-11
+CUST-2658,Consumer,Referral,2023-09-11
+CUST-2659,Consumer,Paid Ads,2022-12-02
+CUST-2660,Consumer,Paid Ads,2024-03-25
+CUST-2661,Small Business,Organic Search,2022-04-27
+CUST-2662,Corporate,Email Campaign,2022-05-04
+CUST-2663,Consumer,Organic Search,2023-02-03
+CUST-2664,Consumer,Email Campaign,2024-03-03
+CUST-2665,Consumer,Email Campaign,2024-03-14
+CUST-2666,Consumer,Referral,2023-12-16
+CUST-2667,Corporate,Paid Ads,2022-02-20
+CUST-2668,Consumer,Social Media,2024-02-22
+CUST-2669,Consumer,Social Media,2022-11-20
+CUST-2670,Small Business,Organic Search,2024-02-28
+CUST-2671,Consumer,Paid Ads,2022-05-21
+CUST-2672,Consumer,Organic Search,2023-04-15
+CUST-2673,Consumer,Paid Ads,2024-02-26
+CUST-2674,Small Business,Organic Search,2024-03-12
+CUST-2675,Corporate,Organic Search,2022-11-30
+CUST-2676,Consumer,Paid Ads,2024-06-11
+CUST-2677,Corporate,Paid Ads,2023-01-08
+CUST-2678,Consumer,Paid Ads,2023-07-18
+CUST-2679,Consumer,Organic Search,2023-05-09
+CUST-2680,Consumer,Paid Ads,2023-06-23
+CUST-2681,Consumer,Organic Search,2023-10-31
+CUST-2682,Consumer,Paid Ads,2024-01-21
+CUST-2683,Consumer,Social Media,2022-06-05
+CUST-2684,Consumer,Paid Ads,2022-10-18
+CUST-2685,Consumer,Social Media,2023-10-10
+CUST-2686,Consumer,Organic Search,2022-05-24
+CUST-2687,Small Business,Social Media,2022-04-16
+CUST-2688,Consumer,Paid Ads,2023-02-24
+CUST-2689,Consumer,Paid Ads,2023-11-01
+CUST-2690,Consumer,Social Media,2023-10-20
+CUST-2691,Consumer,Organic Search,2022-01-02
+CUST-2692,Small Business,Social Media,2023-08-12
+CUST-2693,Consumer,Paid Ads,2023-10-06
+CUST-2694,Consumer,Organic Search,2022-03-31
+CUST-2695,Small Business,Organic Search,2022-12-11
+CUST-2696,Consumer,Organic Search,2022-12-16
+CUST-2697,Consumer,Referral,2023-04-04
+CUST-2698,Consumer,Social Media,2022-09-20
+CUST-2699,Corporate,Organic Search,2022-12-17
+CUST-2700,Consumer,Paid Ads,2022-04-18
+CUST-2701,Consumer,Paid Ads,2023-08-09
+CUST-2702,Consumer,Email Campaign,2022-02-08
+CUST-2703,Consumer,Organic Search,2024-06-27
+CUST-2704,Consumer,Organic Search,2022-06-08
+CUST-2705,Consumer,Email Campaign,2023-08-06
+CUST-2706,Consumer,Organic Search,2022-11-08
+CUST-2707,Corporate,Organic Search,2022-08-29
+CUST-2708,Small Business,Referral,2023-03-21
+CUST-2709,Consumer,Paid Ads,2022-10-25
+CUST-2710,Small Business,Organic Search,2022-02-05
+CUST-2711,Consumer,Organic Search,2022-03-25
+CUST-2712,Consumer,Organic Search,2023-03-28
+CUST-2713,Consumer,Organic Search,2024-06-04
+CUST-2714,Small Business,Email Campaign,2024-02-14
+CUST-2715,Small Business,Paid Ads,2024-04-01
+CUST-2716,Consumer,Social Media,2023-01-20
+CUST-2717,Corporate,Email Campaign,2022-06-21
+CUST-2718,Consumer,Paid Ads,2023-01-11
+CUST-2719,Small Business,Organic Search,2023-11-16
+CUST-2720,Corporate,Paid Ads,2022-12-28
+CUST-2721,Consumer,Email Campaign,2023-07-13
+CUST-2722,Small Business,Email Campaign,2024-06-09
+CUST-2723,Consumer,Organic Search,2022-05-21
+CUST-2724,Consumer,Social Media,2024-06-05
+CUST-2725,Consumer,Paid Ads,2022-04-28
+CUST-2726,Consumer,Email Campaign,2022-10-04
+CUST-2727,Corporate,Organic Search,2023-12-27
+CUST-2728,Small Business,Paid Ads,2022-08-08
+CUST-2729,Consumer,Email Campaign,2024-06-23
+CUST-2730,Small Business,Paid Ads,2022-01-26
+CUST-2731,Corporate,Paid Ads,2023-06-05
+CUST-2732,Consumer,Organic Search,2024-02-22
+CUST-2733,Corporate,Organic Search,2022-01-10
+CUST-2734,Consumer,Organic Search,2023-01-13
+CUST-2735,Small Business,Referral,2023-09-25
+CUST-2736,Consumer,Organic Search,2023-09-29
+CUST-2737,Consumer,Paid Ads,2023-11-13
+CUST-2738,Consumer,Social Media,2023-08-07
+CUST-2739,Consumer,Organic Search,2022-06-01
+CUST-2740,Consumer,Paid Ads,2023-12-21
+CUST-2741,Consumer,Social Media,2022-02-18
+CUST-2742,Consumer,Email Campaign,2022-06-03
+CUST-2743,Corporate,Paid Ads,2024-05-08
+CUST-2744,Consumer,Social Media,2022-10-20
+CUST-2745,Consumer,Organic Search,2023-08-03
+CUST-2746,Consumer,Referral,2022-02-19
+CUST-2747,Consumer,Organic Search,2023-10-26
+CUST-2748,Small Business,Social Media,2023-06-15
+CUST-2749,Small Business,Organic Search,2023-09-04
+CUST-2750,Consumer,Referral,2022-03-01
+CUST-2751,Consumer,Social Media,2022-06-16
+CUST-2752,Small Business,Social Media,2022-07-21
+CUST-2753,Consumer,Organic Search,2024-05-06
+CUST-2754,Small Business,Paid Ads,2022-05-26
+CUST-2755,Consumer,Paid Ads,2023-11-07
+CUST-2756,Small Business,Social Media,2023-03-15
+CUST-2757,Consumer,Organic Search,2022-08-30
+CUST-2758,Consumer,Referral,2023-08-04
+CUST-2759,Corporate,Email Campaign,2023-11-18
+CUST-2760,Consumer,Organic Search,2023-07-15
+CUST-2761,Consumer,Email Campaign,2023-04-28
+CUST-2762,Consumer,Paid Ads,2022-04-18
+CUST-2763,Consumer,Paid Ads,2022-08-14
+CUST-2764,Consumer,Organic Search,2023-11-04
+CUST-2765,Consumer,Paid Ads,2023-09-23
+CUST-2766,Consumer,Social Media,2023-10-23
+CUST-2767,Consumer,Paid Ads,2023-10-24
+CUST-2768,Small Business,Paid Ads,2023-03-08
+CUST-2769,Consumer,Social Media,2024-03-15
+CUST-2770,Consumer,Social Media,2023-10-17
+CUST-2771,Small Business,Organic Search,2023-02-23
+CUST-2772,Consumer,Email Campaign,2023-03-31
+CUST-2773,Consumer,Paid Ads,2022-06-09
+CUST-2774,Consumer,Organic Search,2023-06-07
+CUST-2775,Consumer,Organic Search,2023-10-12
+CUST-2776,Consumer,Paid Ads,2023-08-13
+CUST-2777,Consumer,Email Campaign,2022-03-18
+CUST-2778,Consumer,Paid Ads,2023-05-24
+CUST-2779,Consumer,Social Media,2023-03-17
+CUST-2780,Consumer,Organic Search,2022-09-11
+CUST-2781,Consumer,Paid Ads,2024-02-09
+CUST-2782,Consumer,Referral,2022-11-16
+CUST-2783,Small Business,Social Media,2024-03-13
+CUST-2784,Consumer,Organic Search,2022-09-20
+CUST-2785,Consumer,Paid Ads,2023-08-20
+CUST-2786,Consumer,Organic Search,2023-10-20
+CUST-2787,Consumer,Paid Ads,2024-04-14
+CUST-2788,Consumer,Social Media,2023-07-08
+CUST-2789,Consumer,Social Media,2023-01-09
+CUST-2790,Small Business,Organic Search,2023-09-29
+CUST-2791,Consumer,Referral,2022-06-16
+CUST-2792,Corporate,Paid Ads,2024-01-23
+CUST-2793,Consumer,Paid Ads,2023-04-04
+CUST-2794,Consumer,Paid Ads,2022-10-07
+CUST-2795,Consumer,Paid Ads,2023-12-01
+CUST-2796,Consumer,Paid Ads,2022-10-29
+CUST-2797,Consumer,Paid Ads,2023-06-15
+CUST-2798,Consumer,Paid Ads,2023-08-03
+CUST-2799,Consumer,Organic Search,2022-08-06
+CUST-2800,Corporate,Email Campaign,2022-04-12

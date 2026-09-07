@@ -1,0 +1,20 @@
+{
+  "initial_rows": 5,
+  "final_rows": 2,
+  "duplicates_removed": 1,
+  "invalid_records_removed": 2,
+  "gross_discrepancies_corrected": 0,
+  "date_range": {
+    "min_order_date": "2024-01-01",
+    "max_order_date": "2024-01-02"
+  },
+  "uniques": {
+    "unique_orders": 2,
+    "unique_customers": 2,
+    "unique_products": 2,
+    "unique_brands": 2,
+    "unique_categories": 2,
+    "unique_regions": 2
+  },
+  "null_summary": {}
+}

@@ -1,0 +1,6 @@
+item_a,item_b,bundle_candidate,co_occurrence_count,support_rate,recommended_strategy
+Audio & Headphones,Bags & Luggage,Audio & Headphones + Bags & Luggage,3,0.0306,Bundle anchor volume driver with complementary high-margin accessory
+Bags & Luggage,Smartphones,Bags & Luggage + Smartphones,3,0.0306,Bundle anchor volume driver with complementary high-margin accessory
+Audio & Headphones,Bedding,Audio & Headphones + Bedding,3,0.0306,Bundle anchor volume driver with complementary high-margin accessory
+Men'S Apparel,Skincare,Men'S Apparel + Skincare,3,0.0306,Bundle anchor volume driver with complementary high-margin accessory
+Small Appliances,Women'S Apparel,Small Appliances + Women'S Apparel,3,0.0306,Bundle anchor volume driver with complementary high-margin accessory

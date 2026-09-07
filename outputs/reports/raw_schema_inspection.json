@@ -1,0 +1,162 @@
+{
+  "total_rows": 16015,
+  "total_columns": 26,
+  "columns": {
+    "order_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 16000
+    },
+    "customer_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 2744
+    },
+    "order_date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 716
+    },
+    "product_id": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 118
+    },
+    "product_name": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 118
+    },
+    "quantity": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 7
+    },
+    "unit_price": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 118
+    },
+    "gross_revenue": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 554
+    },
+    "discount_amount": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 943
+    },
+    "net_revenue": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 1909
+    },
+    "product_cost": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 550
+    },
+    "margin": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 1875
+    },
+    "region": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 10
+    },
+    "state": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 20
+    },
+    "city": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 20
+    },
+    "category": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 9
+    },
+    "subcategory": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 20
+    },
+    "brand": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 20
+    },
+    "shipping_date": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 716
+    },
+    "delivery_date": {
+      "dtype": "str",
+      "null_count": 309,
+      "null_percentage": 1.93,
+      "unique_values": 716
+    },
+    "delivery_status": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 3
+    },
+    "return_flag": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 2
+    },
+    "dispute_flag": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 2
+    },
+    "logistics_hub": {
+      "dtype": "str",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 5
+    },
+    "transit_days": {
+      "dtype": "float64",
+      "null_count": 309,
+      "null_percentage": 1.93,
+      "unique_values": 13
+    },
+    "shipping_cost": {
+      "dtype": "float64",
+      "null_count": 0,
+      "null_percentage": 0.0,
+      "unique_values": 1639
+    }
+  }
+}

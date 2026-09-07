@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "Marketing & Customer Acquisition",
+    "recommendation": "Reallocate 20% of acquisition budget toward the 'North' region.",
+    "evidence": "Calculated regional growth is 68.5%, indicating strong organic momentum.",
+    "business_rationale": "Capitalize on high regional velocity where marginal customer acquisition cost yields superior payback.",
+    "expected_kpi_impact": "+12% to +18% incremental regional net revenue",
+    "priority": "High",
+    "risk_or_limitation": "Marketing saturation if localized creative assets are not tailored."
+  },
+  {
+    "domain": "Pricing & Discount Governance",
+    "recommendation": "Cap promotional discount rates at 15% across low-margin categories.",
+    "evidence": "Current blended discount rate is 4.3%, while top volume categories operate on thin gross margins.",
+    "business_rationale": "Deep promotional discounts in low-margin categories erode cash flow without driving defensible repeat loyalty.",
+    "expected_kpi_impact": "+150 to +220 bps gross margin expansion",
+    "priority": "High",
+    "risk_or_limitation": "Short-term dip in top-line unit volume among price-sensitive customers."
+  },
+  {
+    "domain": "Merchandising & Bundling",
+    "recommendation": "Implement automated checkout bundling pairing Electronics with Health & Beauty accessories.",
+    "evidence": "Market basket affinity demonstrates strong co-occurrence across customer shopping sessions.",
+    "business_rationale": "Harnesses high customer traffic on anchor products to pull high-margin accessories into the order basket.",
+    "expected_kpi_impact": "+8% to +14% order AOV and +180 bps margin expansion",
+    "priority": "Medium",
+    "risk_or_limitation": "Requires real-time recommendation widget integration in storefront."
+  },
+  {
+    "domain": "Brand & Supplier Partnerships",
+    "recommendation": "Negotiate preferential cost tiers and volume rebates with anchor partner 'Aurahome'.",
+    "evidence": "Brand 'Aurahome' commands 17.9% revenue share.",
+    "business_rationale": "High volume commitment justifies 2-4% cost concessions, insulating the business against cost inflation.",
+    "expected_kpi_impact": "+$35,000 - $70,000 annual cost savings directly flowing to net margin",
+    "priority": "Medium",
+    "risk_or_limitation": "Supplier pushback or exclusivity demands."
+  },
+  {
+    "domain": "Logistics & Operational Excellence",
+    "recommendation": "Rebalance safety stock across regional fulfillment nodes to reduce transit times above 5 days.",
+    "evidence": "Orders with transit times > 5 days experience higher return rates (4.8% in delayed regions).",
+    "business_rationale": "Compressing transit cycles directly mitigates customer friction, dispute chargebacks, and return processing costs.",
+    "expected_kpi_impact": "-15% return rate and +5% customer retention in affected hubs",
+    "priority": "High",
+    "risk_or_limitation": "Requires upfront inventory re-balancing logistics spend."
+  }
+]

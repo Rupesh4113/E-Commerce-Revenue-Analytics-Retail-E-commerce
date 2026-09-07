@@ -1,0 +1,6 @@
+region,logistics_hub,base_transit_days,states_serviced
+North,Hub-North-Chicago,3.2,"Illinois, Michigan, Ohio, Wisconsin"
+West,Hub-West-Seattle,3.6,"Washington, California, Oregon, Nevada"
+East,Hub-East-NewYork,3.0,"New York, Pennsylvania, Massachusetts, New Jersey"
+South,Hub-South-Atlanta,4.1,"Georgia, Florida, North Carolina, Texas"
+Central,Hub-Central-Denver,4.5,"Colorado, Missouri, Kansas, Utah"

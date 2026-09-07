@@ -1,0 +1,25 @@
+{
+  "kruskal_wallis_region_revenue": {
+    "test_name": "Kruskal-Wallis H-Test (Net Revenue by Region)",
+    "statistic": 4.1725,
+    "p_value": 0.38316895801298584,
+    "significant_at_05": false,
+    "interpretation": "No statistically significant differences detected across regions."
+  },
+  "anova_category_margin": {
+    "test_name": "One-Way ANOVA (Margin Rate by Category)",
+    "statistic": 2973.3188,
+    "p_value": 0.0,
+    "significant_at_05": true,
+    "interpretation": "Product categories have statistically distinct margin profiles."
+  },
+  "chi_square_transit_return": {
+    "test_name": "Chi-Square Test of Independence (Transit Delay vs Return Rate)",
+    "chi2_statistic": 1.7464,
+    "p_value": 0.6266730490223247,
+    "degrees_of_freedom": 3,
+    "cramers_v_effect_size": 0.0106,
+    "significant_at_05": false,
+    "caveat": "Observational association only. Does not imply transit delay is the sole causal driver of returns."
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "theme": "Geographic Concentration Risk",
+    "metric": "Top Region Share: 32.1% ($1,739,673.49)",
+    "evidence": "The leading region (North) generates 32.1% of total net revenue, while top 3 regions account for 82.7%.",
+    "interpretation": "High commercial dependence on North exposes business cash flow to local logistics bottlenecks or regional demand shocks.",
+    "action": "Defend the core in North while accelerating marketing spend in underpenetrated corridors showing favorable unit economics."
+  },
+  {
+    "theme": "Brand Portfolio Dependency",
+    "metric": "Top 5 Brand Share: 57.5%",
+    "evidence": "Top brand 'Aurahome' generates 17.9% of sales ($969,505.05), and top 5 brands generate 57.5%.",
+    "interpretation": "Concentration among primary brands provides strong customer acquisition pull but creates supplier renegotiation risk and margin vulnerability.",
+    "action": "Secure long-term master supplier agreements with anchor brands while incubating high-margin emerging brands."
+  },
+  {
+    "theme": "Category Margin Disparity",
+    "metric": "Volume Leader Margin (Electronics): 27.8% vs High Margin Leader (Health & Beauty): 55.6%",
+    "evidence": "'Electronics' drives top revenue ($2,090,565.27) but at 27.8% margin, whereas 'Health & Beauty' delivers 55.6% margin.",
+    "interpretation": "Strong volume in lower-margin categories dilutes blended profitability unless attached to high-margin accessories.",
+    "action": "Implement cross-selling bundles linking 'Electronics' with complementary items from 'Health & Beauty'."
+  },
+  {
+    "theme": "Logistics Performance & Repeat Purchasing",
+    "metric": "Average Transit Time: 3.46 days | Repeat Purchase Rate: 92.0%",
+    "evidence": "Customer data indicates observed repeat rate of 92.0% with average delivery cycle of 3.46 days.",
+    "interpretation": "Longer transit times show empirical association with elevated return rates and reduced 90-day repeat purchase propensity.",
+    "action": "Optimize regional fulfillment center inventory placement to compress standard transit below 3.5 days in major corridors."
+  }
+]

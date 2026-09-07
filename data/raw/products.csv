@@ -1,0 +1,119 @@
+product_id,product_name,category,subcategory,brand,unit_price,product_cost
+PROD-0001,TechNova Smartphones 1,Electronics,Smartphones,TechNova,268.31,205.55
+PROD-0002,TechNova Laptops 1,Electronics,Laptops,TechNova,887.51,525.98
+PROD-0003,TechNova Audio & Headphones 1,Electronics,Audio & Headphones,TechNova,613.24,374.08
+PROD-0004,TechNova Audio & Headphones 2,Electronics,Audio & Headphones,TechNova,101.53,60.96
+PROD-0005,TechNova Accessories 1,Electronics,Accessories,TechNova,194.81,147.93
+PROD-0006,OmniVolt Smartphones 1,Electronics,Smartphones,OmniVolt,728.29,568.07
+PROD-0007,OmniVolt Laptops 1,Electronics,Laptops,OmniVolt,447.09,348.73
+PROD-0008,OmniVolt Audio & Headphones 1,Electronics,Audio & Headphones,OmniVolt,90.91,70.91
+PROD-0009,OmniVolt Audio & Headphones 2,Electronics,Audio & Headphones,OmniVolt,748.01,594.79
+PROD-0010,OmniVolt Accessories 1,Electronics,Accessories,OmniVolt,686.1,535.16
+PROD-0011,PulseAudio Smartphones 1,Electronics,Smartphones,PulseAudio,532.49,312.24
+PROD-0012,PulseAudio Laptops 1,Electronics,Laptops,PulseAudio,146.7,109.65
+PROD-0013,PulseAudio Audio & Headphones 1,Electronics,Audio & Headphones,PulseAudio,261.04,160.27
+PROD-0014,PulseAudio Audio & Headphones 2,Electronics,Audio & Headphones,PulseAudio,530.41,362.44
+PROD-0015,PulseAudio Accessories 1,Electronics,Accessories,PulseAudio,416.61,340.69
+PROD-0016,PulseAudio Accessories 2,Electronics,Accessories,PulseAudio,434.21,351.25
+PROD-0017,SoundPeak Smartphones 1,Electronics,Smartphones,SoundPeak,846.04,619.06
+PROD-0018,SoundPeak Laptops 1,Electronics,Laptops,SoundPeak,592.18,362.11
+PROD-0019,SoundPeak Audio & Headphones 1,Electronics,Audio & Headphones,SoundPeak,722.15,424.37
+PROD-0020,SoundPeak Audio & Headphones 2,Electronics,Audio & Headphones,SoundPeak,746.09,607.77
+PROD-0021,SoundPeak Accessories 1,Electronics,Accessories,SoundPeak,517.04,388.67
+PROD-0022,SoundPeak Accessories 2,Electronics,Accessories,SoundPeak,68.53,45.2
+PROD-0023,UrbanChic Men's Apparel 1,Apparel & Fashion,Men's Apparel,UrbanChic,136.85,76.32
+PROD-0024,UrbanChic Women's Apparel 1,Apparel & Fashion,Women's Apparel,UrbanChic,207.45,77.05
+PROD-0025,UrbanChic Women's Apparel 2,Apparel & Fashion,Women's Apparel,UrbanChic,76.89,28.76
+PROD-0026,UrbanChic Footwear 1,Apparel & Fashion,Footwear,UrbanChic,105.68,56.7
+PROD-0027,UrbanChic Footwear 2,Apparel & Fashion,Footwear,UrbanChic,236.03,83.61
+PROD-0028,UrbanChic Bags & Luggage 1,Apparel & Fashion,Bags & Luggage,UrbanChic,116.67,62.53
+PROD-0029,SwiftStyle Men's Apparel 1,Apparel & Fashion,Men's Apparel,SwiftStyle,199.37,155.51
+PROD-0030,SwiftStyle Men's Apparel 2,Apparel & Fashion,Men's Apparel,SwiftStyle,90.54,70.62
+PROD-0031,SwiftStyle Women's Apparel 1,Apparel & Fashion,Women's Apparel,SwiftStyle,60.51,47.2
+PROD-0032,SwiftStyle Footwear 1,Apparel & Fashion,Footwear,SwiftStyle,116.93,91.21
+PROD-0033,SwiftStyle Footwear 2,Apparel & Fashion,Footwear,SwiftStyle,46.01,35.89
+PROD-0034,SwiftStyle Bags & Luggage 1,Apparel & Fashion,Bags & Luggage,SwiftStyle,23.2,18.1
+PROD-0035,SwiftStyle Bags & Luggage 2,Apparel & Fashion,Bags & Luggage,SwiftStyle,212.25,165.56
+PROD-0036,ApexGear Men's Apparel 1,Apparel & Fashion,Men's Apparel,ApexGear,187.52,65.98
+PROD-0037,ApexGear Men's Apparel 2,Apparel & Fashion,Men's Apparel,ApexGear,164.31,96.51
+PROD-0038,ApexGear Women's Apparel 1,Apparel & Fashion,Women's Apparel,ApexGear,49.19,21.86
+PROD-0039,ApexGear Footwear 1,Apparel & Fashion,Footwear,ApexGear,201.11,77.6
+PROD-0040,ApexGear Bags & Luggage 1,Apparel & Fashion,Bags & Luggage,ApexGear,80.94,29.37
+PROD-0041,ApexGear Bags & Luggage 2,Apparel & Fashion,Bags & Luggage,ApexGear,205.03,85.99
+PROD-0042,VogueEra Men's Apparel 1,Apparel & Fashion,Men's Apparel,VogueEra,139.52,81.47
+PROD-0043,VogueEra Men's Apparel 2,Apparel & Fashion,Men's Apparel,VogueEra,160.7,72.81
+PROD-0044,VogueEra Women's Apparel 1,Apparel & Fashion,Women's Apparel,VogueEra,53.19,25.43
+PROD-0045,VogueEra Footwear 1,Apparel & Fashion,Footwear,VogueEra,232.5,92.91
+PROD-0046,VogueEra Bags & Luggage 1,Apparel & Fashion,Bags & Luggage,VogueEra,113.53,60.32
+PROD-0047,AuraHome Cookware 1,Home & Kitchen,Cookware,AuraHome,328.85,218.17
+PROD-0048,AuraHome Furniture & Decor 1,Home & Kitchen,Furniture & Decor,AuraHome,403.51,246.77
+PROD-0049,AuraHome Furniture & Decor 2,Home & Kitchen,Furniture & Decor,AuraHome,383.5,258.03
+PROD-0050,AuraHome Bedding 1,Home & Kitchen,Bedding,AuraHome,224.37,112.8
+PROD-0051,AuraHome Bedding 2,Home & Kitchen,Bedding,AuraHome,142.92,97.01
+PROD-0052,AuraHome Small Appliances 1,Home & Kitchen,Small Appliances,AuraHome,475.12,318.79
+PROD-0053,AuraHome Small Appliances 2,Home & Kitchen,Small Appliances,AuraHome,321.95,186.14
+PROD-0054,LuxLiving Cookware 1,Home & Kitchen,Cookware,LuxLiving,419.38,201.3
+PROD-0055,LuxLiving Cookware 2,Home & Kitchen,Cookware,LuxLiving,300.32,144.15
+PROD-0056,LuxLiving Furniture & Decor 1,Home & Kitchen,Furniture & Decor,LuxLiving,53.15,25.51
+PROD-0057,LuxLiving Bedding 1,Home & Kitchen,Bedding,LuxLiving,325.01,156.0
+PROD-0058,LuxLiving Bedding 2,Home & Kitchen,Bedding,LuxLiving,66.82,32.07
+PROD-0059,LuxLiving Small Appliances 1,Home & Kitchen,Small Appliances,LuxLiving,416.62,193.02
+PROD-0060,LuxLiving Small Appliances 2,Home & Kitchen,Small Appliances,LuxLiving,259.47,124.55
+PROD-0061,HavenCraft Cookware 1,Home & Kitchen,Cookware,HavenCraft,380.88,178.23
+PROD-0062,HavenCraft Cookware 2,Home & Kitchen,Cookware,HavenCraft,111.34,51.11
+PROD-0063,HavenCraft Furniture & Decor 1,Home & Kitchen,Furniture & Decor,HavenCraft,454.37,267.56
+PROD-0064,HavenCraft Bedding 1,Home & Kitchen,Bedding,HavenCraft,182.21,106.1
+PROD-0065,HavenCraft Bedding 2,Home & Kitchen,Bedding,HavenCraft,80.71,52.6
+PROD-0066,HavenCraft Small Appliances 1,Home & Kitchen,Small Appliances,HavenCraft,237.62,122.96
+PROD-0067,HavenCraft Small Appliances 2,Home & Kitchen,Small Appliances,HavenCraft,452.81,273.61
+PROD-0068,CozyNest Cookware 1,Home & Kitchen,Cookware,CozyNest,28.19,18.12
+PROD-0069,CozyNest Furniture & Decor 1,Home & Kitchen,Furniture & Decor,CozyNest,99.15,50.08
+PROD-0070,CozyNest Bedding 1,Home & Kitchen,Bedding,CozyNest,102.65,52.88
+PROD-0071,CozyNest Bedding 2,Home & Kitchen,Bedding,CozyNest,345.34,216.23
+PROD-0072,CozyNest Small Appliances 1,Home & Kitchen,Small Appliances,CozyNest,229.86,127.72
+PROD-0073,CozyNest Small Appliances 2,Home & Kitchen,Small Appliances,CozyNest,411.12,234.16
+PROD-0074,GlowLabs Skincare 1,Health & Beauty,Skincare,GlowLabs,36.51,11.65
+PROD-0075,GlowLabs Skincare 2,Health & Beauty,Skincare,GlowLabs,89.14,46.48
+PROD-0076,GlowLabs Haircare 1,Health & Beauty,Haircare,GlowLabs,112.43,42.61
+PROD-0077,GlowLabs Fragrance 1,Health & Beauty,Fragrance,GlowLabs,75.69,35.53
+PROD-0078,GlowLabs Wellness & Vitamins 1,Health & Beauty,Wellness & Vitamins,GlowLabs,25.49,10.39
+PROD-0079,PureEssence Skincare 1,Health & Beauty,Skincare,PureEssence,50.64,18.51
+PROD-0080,PureEssence Skincare 2,Health & Beauty,Skincare,PureEssence,113.85,47.19
+PROD-0081,PureEssence Haircare 1,Health & Beauty,Haircare,PureEssence,158.12,63.01
+PROD-0082,PureEssence Haircare 2,Health & Beauty,Haircare,PureEssence,114.37,52.85
+PROD-0083,PureEssence Fragrance 1,Health & Beauty,Fragrance,PureEssence,144.65,69.43
+PROD-0084,PureEssence Wellness & Vitamins 1,Health & Beauty,Wellness & Vitamins,PureEssence,75.88,28.42
+PROD-0085,PureEssence Wellness & Vitamins 2,Health & Beauty,Wellness & Vitamins,PureEssence,17.61,5.83
+PROD-0086,DermaCare Skincare 1,Health & Beauty,Skincare,DermaCare,95.76,33.56
+PROD-0087,DermaCare Haircare 1,Health & Beauty,Haircare,DermaCare,37.72,11.63
+PROD-0088,DermaCare Haircare 2,Health & Beauty,Haircare,DermaCare,114.16,55.09
+PROD-0089,DermaCare Fragrance 1,Health & Beauty,Fragrance,DermaCare,105.39,53.68
+PROD-0090,DermaCare Fragrance 2,Health & Beauty,Fragrance,DermaCare,82.48,34.13
+PROD-0091,DermaCare Wellness & Vitamins 1,Health & Beauty,Wellness & Vitamins,DermaCare,45.65,16.85
+PROD-0092,VitalBotanics Skincare 1,Health & Beauty,Skincare,VitalBotanics,62.58,33.22
+PROD-0093,VitalBotanics Skincare 2,Health & Beauty,Skincare,VitalBotanics,27.07,11.72
+PROD-0094,VitalBotanics Haircare 1,Health & Beauty,Haircare,VitalBotanics,51.11,16.72
+PROD-0095,VitalBotanics Fragrance 1,Health & Beauty,Fragrance,VitalBotanics,114.43,36.24
+PROD-0096,VitalBotanics Wellness & Vitamins 1,Health & Beauty,Wellness & Vitamins,VitalBotanics,40.54,21.36
+PROD-0097,ZenFit Fitness Equipment 1,Sports & Outdoors,Fitness Equipment,ZenFit,266.5,163.49
+PROD-0098,ZenFit Fitness Equipment 2,Sports & Outdoors,Fitness Equipment,ZenFit,95.21,53.63
+PROD-0099,ZenFit Outdoor Gear 1,Sports & Outdoors,Outdoor Gear,ZenFit,207.67,131.2
+PROD-0100,ZenFit Outdoor Gear 2,Sports & Outdoors,Outdoor Gear,ZenFit,60.25,38.9
+PROD-0101,ZenFit Sportswear 1,Sports & Outdoors,Sportswear,ZenFit,375.15,206.81
+PROD-0102,ZenFit Cycling & Action 1,Sports & Outdoors,Cycling & Action,ZenFit,204.04,137.44
+PROD-0103,TrailBlaze Fitness Equipment 1,Sports & Outdoors,Fitness Equipment,TrailBlaze,347.03,179.65
+PROD-0104,TrailBlaze Outdoor Gear 1,Sports & Outdoors,Outdoor Gear,TrailBlaze,104.28,69.39
+PROD-0105,TrailBlaze Sportswear 1,Sports & Outdoors,Sportswear,TrailBlaze,34.07,17.07
+PROD-0106,TrailBlaze Cycling & Action 1,Sports & Outdoors,Cycling & Action,TrailBlaze,50.06,34.43
+PROD-0107,TrailBlaze Cycling & Action 2,Sports & Outdoors,Cycling & Action,TrailBlaze,277.9,177.43
+PROD-0108,SummitPro Fitness Equipment 1,Sports & Outdoors,Fitness Equipment,SummitPro,356.95,191.84
+PROD-0109,SummitPro Outdoor Gear 1,Sports & Outdoors,Outdoor Gear,SummitPro,280.33,194.01
+PROD-0110,SummitPro Outdoor Gear 2,Sports & Outdoors,Outdoor Gear,SummitPro,234.56,144.27
+PROD-0111,SummitPro Sportswear 1,Sports & Outdoors,Sportswear,SummitPro,290.79,174.67
+PROD-0112,SummitPro Cycling & Action 1,Sports & Outdoors,Cycling & Action,SummitPro,419.56,240.88
+PROD-0113,VeloSprint Fitness Equipment 1,Sports & Outdoors,Fitness Equipment,VeloSprint,404.29,259.99
+PROD-0114,VeloSprint Outdoor Gear 1,Sports & Outdoors,Outdoor Gear,VeloSprint,211.78,133.81
+PROD-0115,VeloSprint Outdoor Gear 2,Sports & Outdoors,Outdoor Gear,VeloSprint,385.53,243.5
+PROD-0116,VeloSprint Sportswear 1,Sports & Outdoors,Sportswear,VeloSprint,242.97,124.3
+PROD-0117,VeloSprint Sportswear 2,Sports & Outdoors,Sportswear,VeloSprint,353.77,183.99
+PROD-0118,VeloSprint Cycling & Action 1,Sports & Outdoors,Cycling & Action,VeloSprint,153.66,80.47
